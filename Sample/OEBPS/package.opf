@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en" unique-identifier="pub-id">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title id="t1" xml:lang="en">Samples eBook Chapters</dc:title>
+    <meta refines="#t1" property="title-type">main</meta>
+    <meta refines="#t1" property="display-seq">1</meta>
+    <dc:identifier id="pub-id">5eade6a4-77cd-11ea-bc55-0242ac130003</dc:identifier>
+    <meta refines="#pub-id" property="identifier-type" scheme="xsd:string">5eade6a4-77cd-11ea-bc55-0242ac130003</meta>
+    <dc:language>en</dc:language>
+    <dc:creator id="edt1">Sample</dc:creator>
+    <meta refines="#edt1" property="role" scheme="marc:relators" id="role">edt</meta>
+    <meta refines="#edt1" property="file-as">Sample</meta>
+    <meta refines="#edt1" property="display-seq">1</meta>
+    <meta property="dcterms:identifer" id="isbn">urn:isbn:5eade6a4-77cd-11ea-bc55-0242ac130003</meta>
+    <meta property="dcterms:publisher">Wolters Kluwer</meta>
+    <meta property="dcterms:language">en</meta>
+    <meta property="dcterms:modified">2021-08-25T18:15:02Z</meta>
+    <meta property="dcterms:date">2021</meta>
+    <meta name="cover" content="my_cover_image"/>
+	</metadata>
+	<manifest>
+		<item href="js/video-insert.js" id="js-video-insert0" media-type="application/javascript"></item>
+		<item id="nav" properties="nav" href="nav.xhtml" media-type="application/xhtml+xml"/>
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+		<item id="cvi" href="cvi.xhtml" media-type="application/xhtml+xml"/>
+		<item id="ch24" href="ch24.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+		<item id="css" href="style.css" media-type="text/css"/>
+		<item id="my_cover_image" href="images/cover.jpg" media-type="image/jpeg"/>
+		<item id="imff24-1" href="images/ff24-1.jpg" media-type="image/jpeg"/>
+		<item id="imff24-2" href="images/ff24-2.jpg" media-type="image/jpeg"/>
+		<item id="imff24-3" href="images/ff24-3.jpg" media-type="image/jpeg"/>
+		<item id="imtt24-4" href="images/tt24-4.jpg" media-type="image/jpeg"/>
+		<item id="imtt24-5" href="images/tt24-5.jpg" media-type="image/jpeg"/>
+		<item id="imtt523" href="images/p523-1.jpg" media-type="image/jpeg"/>
+		<item id="frame1111" href="24-Blood-Therapy_FINAL/meta.xml" media-type="application/xhtml+xml"/>
+		<item id="analytics-frame" href="24-Blood-Therapy_FINAL/analytics-frame.html" media-type="text/html"/>
+		<item id="story" href="24-Blood-Therapy_FINAL/story.html" media-type="text/html"/>
+		<item href="24-Blood-Therapy_FINAL//story.swf" id="js-FontFactory2" media-type="application/swf"></item>
+
+		<item id="story_flash" href="24-Blood-Therapy_FINAL/story_flash.html" media-type="text/html"/>
+		<item id="story_html5a" href="24-Blood-Therapy_FINAL/story_html5.html" media-type="text/html"/>
+
+		<item href="24-Blood-Therapy_FINAL/story_content/FontFactory.swf" id="js-FontFactory" media-type="application/swf"></item>
+		<item href="24-Blood-Therapy_FINAL/story_content/5lygAlnP0q3_80_P_14_0_1316_2048_DX1600_DY1600.swf" id="swf-5lygAlnP0q3_80_P_14_0_1316_2048_DX1600_DY1600" media-type="application/swf"></item>
+		<item href="24-Blood-Therapy_FINAL/story_content/5lygAlnP0q3_80_RG_P_14_0_1316_2048_DX1600_DY1600.swf" id="swf-5lygAlnP0q3_80_RG_P_14_0_1316_2048_DX1600_DY1600" media-type="application/swf"></item>
+		<item href="24-Blood-Therapy_FINAL/html5/lib/scripts/bootstrapper.min.js" id="js-bootstrapper.min" media-type="application/javascript"></item>
+		<item href="24-Blood-Therapy_FINAL/html5/lib/scripts/frame.desktop.min.js" id="js-frame.desktop.min" media-type="application/javascript"></item>
+		<item href="24-Blood-Therapy_FINAL/html5/lib/scripts/frame.mobile.min.js" id="js-frame.mobile.min" media-type="application/javascript"></item>
+		<item href="24-Blood-Therapy_FINAL/html5/lib/scripts/slides.min.js" id="js-slides.min" media-type="application/javascript"></item>
+		<item id="blank" href="24-Blood-Therapy_FINAL/story_content/blank.html" media-type="application/xhtml+xml"/>
+		<item href="24-Blood-Therapy_FINAL/story_content/data.swf" id="js-data1" media-type="application/swf"></item>
+		<item href="24-Blood-Therapy_FINAL/story_content/fonts.swf" id="js-fonts" media-type="application/swf"></item>
+		<item href="24-Blood-Therapy_FINAL/story_content/frame.swf" id="js-frame1" media-type="application/swf"></item>
+		<item id="frame" href="24-Blood-Therapy_FINAL/story_content/frame.xml" media-type="application/xhtml+xml"/>
+		<item href="24-Blood-Therapy_FINAL/story_content/story.js" id="js-story" media-type="application/javascript"></item>
+		<item href="24-Blood-Therapy_FINAL/story_content/user.js" id="js-user" media-type="application/javascript"></item>
+		<item id="imthumbnail" href="24-Blood-Therapy_FINAL/story_content/thumbnail.jpg" media-type="image/jpeg"/>
+		<item href="24-Blood-Therapy_FINAL/story_content/slides/5d3sfdCiuIA.swf" id="js-5d3sfdCiuIA" media-type="application/swf"></item>
+		<item href="24-Blood-Therapy_FINAL/story_content/slides/5pu5V5bRiO6.swf" id="js-5pu5V5bRiO6" media-type="application/swf"></item>
+		<item href="24-Blood-Therapy_FINAL/story_content/slides/5ti0jqfNFZY.swf" id="js-5ti0jqfNFZY" media-type="application/swf"></item>
+		<item href="24-Blood-Therapy_FINAL/story_content/slides/5x6jimtYpa9.swf" id="js-5x6jimtYpa9" media-type="application/swf"></item>
+		<item href="24-Blood-Therapy_FINAL/story_content/slides/68FpjcKvzJd.swf" id="js-68FpjcKvzJd" media-type="application/swf"></item>
+		<item href="24-Blood-Therapy_FINAL/story_content/slides/6D7v6cnwola.swf" id="js-6D7v6cnwola" media-type="application/swf"></item>
+		<item href="24-Blood-Therapy_FINAL/story_content/slides/6d9I5wBizVY.swf" id="js-6d9I5wBizVY" media-type="application/swf"></item>
+		<item href="24-Blood-Therapy_FINAL/story_content/slides/6hfMbQbhqX0.swf" id="js-6hfMbQbhqX0" media-type="application/swf"></item>
+		<item href="24-Blood-Therapy_FINAL/story_content/slides/6SiRjJoF3xa.swf" id="js-6SiRjJoF3xa" media-type="application/swf"></item>
+		<item href="24-Blood-Therapy_FINAL/story_content/slides/6VAaLEtOlAR.swf" id="js-6VAaLEtOlAR" media-type="application/swf"></item>
+		<item id="im5lygAlnP0q3_80_P_14_0_1316_2048_DX1600_DY1600_CX772_CY1200" href="24-Blood-Therapy_FINAL/mobile/5lygAlnP0q3_80_P_14_0_1316_2048_DX1600_DY1600_CX772_CY1200.png" media-type="image/png"/>
+		<item id="im55lygAlnP0q3_80_RG_P_14_0_1316_2048_DX1600_DY1600_CX772_CY1200" href="24-Blood-Therapy_FINAL/mobile/5lygAlnP0q3_80_RG_P_14_0_1316_2048_DX1600_DY1600_CX772_CY1200.png" media-type="image/png"/>
+		<item id="css1" href="24-Blood-Therapy_FINAL/html5/data/css/output.min.css" media-type="text/css"/>
+		<item id="css2" href="24-Blood-Therapy_FINAL/html5/lib/stylesheets/desktop.min.css" media-type="text/css"/>
+		<item id="css3" href="24-Blood-Therapy_FINAL/html5/lib/stylesheets/mobile.min.css" media-type="text/css"/>
+		<item id="font31a" href="24-Blood-Therapy_FINAL/html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="font31b" href="24-Blood-Therapy_FINAL/html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="font31c" href="24-Blood-Therapy_FINAL/html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="imgquiz1-next-circle" href="quiz01/img/next-circle.svg" media-type="image/svg+xml"/>
+		<item id="imgquiz1-back-circle" href="quiz01/img/back-circle.svg" media-type="image/svg+xml"/>
+		<item href="quiz01/data.js" id="js01" media-type="application/javascript"/>
+		<item id="ht-01" href="quiz01/index.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+		<item href="quiz_package/css/bootstrap.css" id="css33" media-type="text/css"/>
+		<item href="quiz_package/css/jquery.circliful.css" id="css34" media-type="text/css"/>
+		<item href="quiz_package/css/jquery.mxpage.css" id="css35" media-type="text/css"/>
+		<item href="quiz_package/css/style.css" id="css38" media-type="text/css"/>
+		<item href="quiz_package/css/wtf-forms.css" id="css39" media-type="text/css"/>
+		<item href="quiz_package/css/icheck/aero.css" id="css40" media-type="text/css"/>
+		<item href="quiz_package/css/icheck/blue.css" id="css41" media-type="text/css"/>
+		<item href="quiz_package/css/icheck/green.css" id="css42" media-type="text/css"/>
+		<item href="quiz_package/css/icheck/grey.css" id="css43" media-type="text/css"/>
+		<item href="quiz_package/css/icheck/minimal.css" id="css44" media-type="text/css"/>
+		<item href="quiz_package/css/icheck/orange.css" id="css45" media-type="text/css"/>
+		<item href="quiz_package/css/icheck/pink.css" id="css46" media-type="text/css"/>
+		<item href="quiz_package/css/icheck/purple.css" id="css47" media-type="text/css"/>
+		<item href="quiz_package/css/icheck/red.css" id="css48" media-type="text/css"/>
+		<item href="quiz_package/css/icheck/yellow.css" id="css49" media-type="text/css"/>
+		<item href="quiz_package/css/icheck/_all.css" id="css50" media-type="text/css"/>
+		<item href="quiz_package/js/activity.js" id="js87" media-type="application/javascript"/>
+		<item href="quiz_package/js/bootstrap.js" id="js88" media-type="application/javascript"/>
+		<item href="quiz_package/js/data.js" id="js89" media-type="application/javascript"/>
+		<item href="quiz_package/js/icheck.js" id="js90" media-type="application/javascript"/>
+		<item href="quiz_package/js/jquery-1.10.2.js" id="js91" media-type="application/javascript"/>
+		<item href="quiz_package/js/jquery-2.1.4.min.js" id="js92" media-type="application/javascript"/>
+		<item href="quiz_package/js/jquery-ui.min.js" id="js93" media-type="application/javascript"/>
+		<item href="quiz_package/js/jquery.circliful.min.js" id="js94" media-type="application/javascript"/>
+		<item href="quiz_package/js/jquery.mxpage.js" id="js95" media-type="application/javascript"/>
+		<item href="quiz_package/js/jquery.ui.touch-punch.min.js" id="js96" media-type="application/javascript"/>
+		<item href="quiz_package/js/perfect-scrollbar.js" id="js98" media-type="application/javascript"/>
+		<item href="quiz_package/js/preloader.js" id="js99" media-type="application/javascript"/>
+		<item href="quiz_package/js/jquery-1.11.2.ui.min.js" id="js99111a11" media-type="application/javascript"/>
+		<item href="quiz_package/js/jquery-2.1.3.min.js" id="js99111a" media-type="application/javascript"/>
+		<item href="quiz_package/js/video-insert.js" id="js101" media-type="application/javascript"/>
+		<item id="img-71" href="quiz_package/images/arrow.svg" media-type="image/svg+xml"/>
+		<item id="img-72" href="quiz_package/images/back_circle.svg" media-type="image/svg+xml"/>
+		<item id="img-73" href="quiz_package/images/cross-black.svg" media-type="image/svg+xml"/>
+		<item id="img-74" href="quiz_package/images/cross-blue.svg" media-type="image/svg+xml"/>
+		<item id="img-75" href="quiz_package/images/cross-small.svg" media-type="image/svg+xml"/>
+		<item id="img-76" href="quiz_package/images/cross-white.svg" media-type="image/svg+xml"/>
+		<item id="img-77" href="quiz_package/images/cross.svg" media-type="image/svg+xml"/>
+		<item id="img-78" href="quiz_package/images/down_arrow.svg" media-type="image/svg+xml"/>
+		<item id="img-79" href="quiz_package/images/icon-blue.svg" media-type="image/svg+xml"/>
+		<item id="img-80" href="quiz_package/images/intro-img.svg" media-type="image/svg+xml"/>
+		<item id="img-81" href="quiz_package/images/next_circle.svg" media-type="image/svg+xml"/>
+		<item id="img-82" href="quiz_package/images/read_more.svg" media-type="image/svg+xml"/>
+		<item id="img-83" href="quiz_package/images/tick-small.svg" media-type="image/svg+xml"/>
+		<item id="img-84" href="quiz_package/images/tick-white.svg" media-type="image/svg+xml"/>
+		<item id="img-85" href="quiz_package/images/tick.svg" media-type="image/svg+xml"/>	
+		<item id="img-366" href="quiz_package/css/icheck/aero.png" media-type="image/png"/>
+		<item id="img-367" href="quiz_package/css/icheck/aero@2x.png" media-type="image/png"/>
+		<item id="img-368" href="quiz_package/css/icheck/blue.png" media-type="image/png"/>
+		<item id="img-369" href="quiz_package/css/icheck/blue@2x.png" media-type="image/png"/>
+		<item id="img-370" href="quiz_package/css/icheck/green.png" media-type="image/png"/>
+		<item id="img-371" href="quiz_package/css/icheck/green@2x.png" media-type="image/png"/>
+		<item id="img-372" href="quiz_package/css/icheck/grey.png" media-type="image/png"/>
+		<item id="img-373" href="quiz_package/css/icheck/grey@2x.png" media-type="image/png"/>
+		<item id="img-374" href="quiz_package/css/icheck/minimal.png" media-type="image/png"/>
+		<item id="img-375" href="quiz_package/css/icheck/minimal@2x.png" media-type="image/png"/>
+		<item id="img-376" href="quiz_package/css/icheck/orange.png" media-type="image/png"/>
+		<item id="img-377" href="quiz_package/css/icheck/orange@2x.png" media-type="image/png"/>
+		<item id="img-378" href="quiz_package/css/icheck/pink.png" media-type="image/png"/>
+		<item id="img-379" href="quiz_package/css/icheck/pink@2x.png" media-type="image/png"/>
+		<item id="img-380" href="quiz_package/css/icheck/purple.png" media-type="image/png"/>
+		<item id="img-381" href="quiz_package/css/icheck/purple@2x.png" media-type="image/png"/>
+		<item id="img-382" href="quiz_package/css/icheck/red.png" media-type="image/png"/>
+		<item id="img-383" href="quiz_package/css/icheck/red@2x.png" media-type="image/png"/>
+		<item id="img-384" href="quiz_package/css/icheck/yellow.png" media-type="image/png"/>
+		<item id="img-385" href="quiz_package/css/icheck/yellow@2x.png" media-type="image/png"/>
+		<item id="img-386" href="quiz_package/images/check.png" media-type="image/png"/>
+		<item id="img-387" href="quiz_package/images/check_or.png" media-type="image/png"/>
+		<item id="img-388" href="quiz_package/images/feedback.png" media-type="image/png"/>
+		<item id="img-389" href="quiz_package/images/feedback11.png" media-type="image/png"/>
+		<item id="img-390" href="quiz_package/images/feedback_V1.png" media-type="image/png"/>
+		<item id="img-391" href="quiz_package/images/round.png" media-type="image/png"/>
+		<item id="img-476" href="quiz_package/images/loading.gif" media-type="image/gif"/>
+		<item href="quiz_package/fonts/FiraSans-Bold.otf" id="fontNew_110" media-type="application/vnd.ms-opentype"/>
+		<item href="quiz_package/fonts/FiraSans-ExtraBold.otf" id="fontNew_111" media-type="application/vnd.ms-opentype"/>
+		<item href="quiz_package/fonts/FiraSans-Light.otf" id="fontNew_112" media-type="application/vnd.ms-opentype"/>
+		<item href="quiz_package/fonts/FiraSans-Regular.otf" id="fontNew_113" media-type="application/vnd.ms-opentype"/>
+
+		<item href="24-Blood-Therapy_FINAL/html5/data/js/5d3sfdCiuIA.js" id="js1-5d3sfdCiuIA" media-type="application/javascript"></item>
+		<item href="24-Blood-Therapy_FINAL/html5/data/js/5pu5V5bRiO6.js" id="js1-5pu5V5bRiO6" media-type="application/javascript"></item>
+		<item href="24-Blood-Therapy_FINAL/html5/data/js/5ti0jqfNFZY.js" id="js1-5ti0jqfNFZY" media-type="application/javascript"></item>
+		<item href="24-Blood-Therapy_FINAL/html5/data/js/5x6jimtYpa9.js" id="js1-5x6jimtYpa9" media-type="application/javascript"></item>
+		<item href="24-Blood-Therapy_FINAL/html5/data/js/68FpjcKvzJd.js" id="js1-68FpjcKvzJd" media-type="application/javascript"></item>
+		<item href="24-Blood-Therapy_FINAL/html5/data/js/6D7v6cnwola.js" id="js1-6D7v6cnwola" media-type="application/javascript"></item>
+		<item href="24-Blood-Therapy_FINAL/html5/data/js/6d9I5wBizVY.js" id="js1-6d9I5wBizVY" media-type="application/javascript"></item>
+		<item href="24-Blood-Therapy_FINAL/html5/data/js/6hfMbQbhqX0.js" id="js1-6hfMbQbhqX0" media-type="application/javascript"></item>
+		<item href="24-Blood-Therapy_FINAL/html5/data/js/6SiRjJoF3xa.js" id="js1-6SiRjJoF3xa" media-type="application/javascript"></item>
+		<item href="24-Blood-Therapy_FINAL/html5/data/js/6VAaLEtOlAR.js" id="js1-6VAaLEtOlAR" media-type="application/javascript"></item>
+		<item href="24-Blood-Therapy_FINAL/html5/data/js/data.js" id="js1-data" media-type="application/javascript"></item>
+		<item href="24-Blood-Therapy_FINAL/html5/data/js/frame.js" id="js1-frame" media-type="application/javascript"></item>
+		<item href="24-Blood-Therapy_FINAL/html5/data/js/paths.js" id="js1-paths" media-type="application/javascript"></item>
+
+		<item id="a24b-Blood-playerss" href="24b-Blood-Therapy/data/player.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-quiz1ss" href="24b-Blood-Therapy/data/quiz1.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-quiz2ss" href="24b-Blood-Therapy/data/quiz2.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-quiz3ss" href="24b-Blood-Therapy/data/quiz3.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-quizplayerss" href="24b-Blood-Therapy/data/quizplayer.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide1" href="24b-Blood-Therapy/data/slide1.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide1ss" href="24b-Blood-Therapy/data/slide1.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide10" href="24b-Blood-Therapy/data/slide10.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide10ss" href="24b-Blood-Therapy/data/slide10.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide11" href="24b-Blood-Therapy/data/slide11.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide11ss" href="24b-Blood-Therapy/data/slide11.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide12" href="24b-Blood-Therapy/data/slide12.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide12ss" href="24b-Blood-Therapy/data/slide12.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide13" href="24b-Blood-Therapy/data/slide13.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide13ss" href="24b-Blood-Therapy/data/slide13.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide14" href="24b-Blood-Therapy/data/slide14.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide14ss" href="24b-Blood-Therapy/data/slide14.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide15" href="24b-Blood-Therapy/data/slide15.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide15ss" href="24b-Blood-Therapy/data/slide15.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide16" href="24b-Blood-Therapy/data/slide16.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide16ss" href="24b-Blood-Therapy/data/slide16.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide17" href="24b-Blood-Therapy/data/slide17.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide17ss" href="24b-Blood-Therapy/data/slide17.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide19" href="24b-Blood-Therapy/data/slide19.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide19ss" href="24b-Blood-Therapy/data/slide19.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide2" href="24b-Blood-Therapy/data/slide2.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide2ss" href="24b-Blood-Therapy/data/slide2.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide20" href="24b-Blood-Therapy/data/slide20.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide20ss" href="24b-Blood-Therapy/data/slide20.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide21" href="24b-Blood-Therapy/data/slide21.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide21ss" href="24b-Blood-Therapy/data/slide21.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide22" href="24b-Blood-Therapy/data/slide22.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide22ss" href="24b-Blood-Therapy/data/slide22.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide23" href="24b-Blood-Therapy/data/slide23.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide23ss" href="24b-Blood-Therapy/data/slide23.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide24" href="24b-Blood-Therapy/data/slide24.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide24ss" href="24b-Blood-Therapy/data/slide24.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide25" href="24b-Blood-Therapy/data/slide25.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide25ss" href="24b-Blood-Therapy/data/slide25.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide26" href="24b-Blood-Therapy/data/slide26.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide26ss" href="24b-Blood-Therapy/data/slide26.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide27" href="24b-Blood-Therapy/data/slide27.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide27ss" href="24b-Blood-Therapy/data/slide27.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide28" href="24b-Blood-Therapy/data/slide28.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide28ss" href="24b-Blood-Therapy/data/slide28.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide29" href="24b-Blood-Therapy/data/slide29.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide29ss" href="24b-Blood-Therapy/data/slide29.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide3" href="24b-Blood-Therapy/data/slide3.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide3ss" href="24b-Blood-Therapy/data/slide3.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide30" href="24b-Blood-Therapy/data/slide30.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide30ss" href="24b-Blood-Therapy/data/slide30.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide31" href="24b-Blood-Therapy/data/slide31.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide31ss" href="24b-Blood-Therapy/data/slide31.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide32" href="24b-Blood-Therapy/data/slide32.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide32ss" href="24b-Blood-Therapy/data/slide32.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide33" href="24b-Blood-Therapy/data/slide33.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide33ss" href="24b-Blood-Therapy/data/slide33.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide36" href="24b-Blood-Therapy/data/slide36.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide36ss" href="24b-Blood-Therapy/data/slide36.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide4" href="24b-Blood-Therapy/data/slide4.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide4ss" href="24b-Blood-Therapy/data/slide4.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide5" href="24b-Blood-Therapy/data/slide5.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide5ss" href="24b-Blood-Therapy/data/slide5.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide6" href="24b-Blood-Therapy/data/slide6.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide6ss" href="24b-Blood-Therapy/data/slide6.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide7" href="24b-Blood-Therapy/data/slide7.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide7ss" href="24b-Blood-Therapy/data/slide7.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide8" href="24b-Blood-Therapy/data/slide8.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide8ss" href="24b-Blood-Therapy/data/slide8.js" media-type="application/javascript"/>
+		<item id="a24b-Blood-slide9" href="24b-Blood-Therapy/data/slide9.css" media-type="text/css"/>
+		<item id="a24b-Blood-slide9ss" href="24b-Blood-Therapy/data/slide9.js" media-type="application/javascript"/>
+<item id="a24b-Blood-imh5" href="24b-Blood-Therapy/data/html5.png" media-type="image/png"/>
+<item id="a24b-Blood-img0" href="24b-Blood-Therapy/data/img0.png" media-type="image/png"/>
+<item id="a24b-Blood-img1" href="24b-Blood-Therapy/data/img1.png" media-type="image/png"/>
+<item id="a24b-Blood-img10" href="24b-Blood-Therapy/data/img10.png" media-type="image/png"/>
+<item id="a24b-Blood-img100" href="24b-Blood-Therapy/data/img100.png" media-type="image/png"/>
+<item id="a24b-Blood-img101" href="24b-Blood-Therapy/data/img101.png" media-type="image/png"/>
+<item id="a24b-Blood-img102" href="24b-Blood-Therapy/data/img102.png" media-type="image/png"/>
+<item id="a24b-Blood-img103" href="24b-Blood-Therapy/data/img103.png" media-type="image/png"/>
+<item id="a24b-Blood-img104" href="24b-Blood-Therapy/data/img104.png" media-type="image/png"/>
+<item id="a24b-Blood-img105" href="24b-Blood-Therapy/data/img105.png" media-type="image/png"/>
+<item id="a24b-Blood-img106" href="24b-Blood-Therapy/data/img106.png" media-type="image/png"/>
+<item id="a24b-Blood-img107" href="24b-Blood-Therapy/data/img107.png" media-type="image/png"/>
+<item id="a24b-Blood-img108" href="24b-Blood-Therapy/data/img108.png" media-type="image/png"/>
+<item id="a24b-Blood-img109" href="24b-Blood-Therapy/data/img109.png" media-type="image/png"/>
+<item id="a24b-Blood-img11" href="24b-Blood-Therapy/data/img11.png" media-type="image/png"/>
+<item id="a24b-Blood-img110" href="24b-Blood-Therapy/data/img110.png" media-type="image/png"/>
+<item id="a24b-Blood-img111" href="24b-Blood-Therapy/data/img111.png" media-type="image/png"/>
+<item id="a24b-Blood-img112" href="24b-Blood-Therapy/data/img112.png" media-type="image/png"/>
+<item id="a24b-Blood-img113" href="24b-Blood-Therapy/data/img113.png" media-type="image/png"/>
+<item id="a24b-Blood-img114" href="24b-Blood-Therapy/data/img114.png" media-type="image/png"/>
+<item id="a24b-Blood-img115" href="24b-Blood-Therapy/data/img115.png" media-type="image/png"/>
+<item id="a24b-Blood-img116" href="24b-Blood-Therapy/data/img116.png" media-type="image/png"/>
+<item id="a24b-Blood-img117" href="24b-Blood-Therapy/data/img117.png" media-type="image/png"/>
+<item id="a24b-Blood-img118" href="24b-Blood-Therapy/data/img118.png" media-type="image/png"/>
+<item id="a24b-Blood-img119" href="24b-Blood-Therapy/data/img119.png" media-type="image/png"/>
+<item id="a24b-Blood-img12" href="24b-Blood-Therapy/data/img12.png" media-type="image/png"/>
+<item id="a24b-Blood-img120" href="24b-Blood-Therapy/data/img120.png" media-type="image/png"/>
+<item id="a24b-Blood-img121" href="24b-Blood-Therapy/data/img121.png" media-type="image/png"/>
+<item id="a24b-Blood-img122" href="24b-Blood-Therapy/data/img122.png" media-type="image/png"/>
+<item id="a24b-Blood-img123" href="24b-Blood-Therapy/data/img123.png" media-type="image/png"/>
+<item id="a24b-Blood-img124" href="24b-Blood-Therapy/data/img124.png" media-type="image/png"/>
+<item id="a24b-Blood-img125" href="24b-Blood-Therapy/data/img125.png" media-type="image/png"/>
+<item id="a24b-Blood-img126" href="24b-Blood-Therapy/data/img126.png" media-type="image/png"/>
+<item id="a24b-Blood-img127" href="24b-Blood-Therapy/data/img127.png" media-type="image/png"/>
+<item id="a24b-Blood-img128" href="24b-Blood-Therapy/data/img128.png" media-type="image/png"/>
+<item id="a24b-Blood-img129" href="24b-Blood-Therapy/data/img129.png" media-type="image/png"/>
+<item id="a24b-Blood-img13" href="24b-Blood-Therapy/data/img13.png" media-type="image/png"/>
+<item id="a24b-Blood-img130" href="24b-Blood-Therapy/data/img130.png" media-type="image/png"/>
+<item id="a24b-Blood-img131" href="24b-Blood-Therapy/data/img131.png" media-type="image/png"/>
+<item id="a24b-Blood-img132" href="24b-Blood-Therapy/data/img132.png" media-type="image/png"/>
+<item id="a24b-Blood-img133" href="24b-Blood-Therapy/data/img133.png" media-type="image/png"/>
+<item id="a24b-Blood-img134" href="24b-Blood-Therapy/data/img134.png" media-type="image/png"/>
+<item id="a24b-Blood-img135" href="24b-Blood-Therapy/data/img135.png" media-type="image/png"/>
+<item id="a24b-Blood-img136" href="24b-Blood-Therapy/data/img136.png" media-type="image/png"/>
+<item id="a24b-Blood-img137" href="24b-Blood-Therapy/data/img137.png" media-type="image/png"/>
+<item id="a24b-Blood-img138" href="24b-Blood-Therapy/data/img138.png" media-type="image/png"/>
+<item id="a24b-Blood-img139" href="24b-Blood-Therapy/data/img139.png" media-type="image/png"/>
+<item id="a24b-Blood-img14" href="24b-Blood-Therapy/data/img14.png" media-type="image/png"/>
+<item id="a24b-Blood-img140" href="24b-Blood-Therapy/data/img140.png" media-type="image/png"/>
+<item id="a24b-Blood-img141" href="24b-Blood-Therapy/data/img141.png" media-type="image/png"/>
+<item id="a24b-Blood-img142" href="24b-Blood-Therapy/data/img142.png" media-type="image/png"/>
+<item id="a24b-Blood-img143" href="24b-Blood-Therapy/data/img143.png" media-type="image/png"/>
+<item id="a24b-Blood-img144" href="24b-Blood-Therapy/data/img144.png" media-type="image/png"/>
+<item id="a24b-Blood-img145" href="24b-Blood-Therapy/data/img145.png" media-type="image/png"/>
+<item id="a24b-Blood-img146" href="24b-Blood-Therapy/data/img146.png" media-type="image/png"/>
+<item id="a24b-Blood-img147" href="24b-Blood-Therapy/data/img147.png" media-type="image/png"/>
+<item id="a24b-Blood-img148" href="24b-Blood-Therapy/data/img148.png" media-type="image/png"/>
+<item id="a24b-Blood-img149" href="24b-Blood-Therapy/data/img149.png" media-type="image/png"/>
+<item id="a24b-Blood-img15" href="24b-Blood-Therapy/data/img15.png" media-type="image/png"/>
+<item id="a24b-Blood-img150" href="24b-Blood-Therapy/data/img150.png" media-type="image/png"/>
+<item id="a24b-Blood-img151" href="24b-Blood-Therapy/data/img151.png" media-type="image/png"/>
+<item id="a24b-Blood-img152" href="24b-Blood-Therapy/data/img152.png" media-type="image/png"/>
+<item id="a24b-Blood-img153" href="24b-Blood-Therapy/data/img153.png" media-type="image/png"/>
+<item id="a24b-Blood-img154" href="24b-Blood-Therapy/data/img154.png" media-type="image/png"/>
+<item id="a24b-Blood-img155" href="24b-Blood-Therapy/data/img155.png" media-type="image/png"/>
+<item id="a24b-Blood-img156" href="24b-Blood-Therapy/data/img156.png" media-type="image/png"/>
+<item id="a24b-Blood-img157" href="24b-Blood-Therapy/data/img157.png" media-type="image/png"/>
+<item id="a24b-Blood-img158" href="24b-Blood-Therapy/data/img158.png" media-type="image/png"/>
+<item id="a24b-Blood-img159" href="24b-Blood-Therapy/data/img159.png" media-type="image/png"/>
+<item id="a24b-Blood-img16" href="24b-Blood-Therapy/data/img16.png" media-type="image/png"/>
+<item id="a24b-Blood-img160" href="24b-Blood-Therapy/data/img160.png" media-type="image/png"/>
+<item id="a24b-Blood-img161" href="24b-Blood-Therapy/data/img161.png" media-type="image/png"/>
+<item id="a24b-Blood-img17" href="24b-Blood-Therapy/data/img17.png" media-type="image/png"/>
+<item id="a24b-Blood-img18" href="24b-Blood-Therapy/data/img18.png" media-type="image/png"/>
+<item id="a24b-Blood-img19" href="24b-Blood-Therapy/data/img19.png" media-type="image/png"/>
+<item id="a24b-Blood-img2" href="24b-Blood-Therapy/data/img2.png" media-type="image/png"/>
+<item id="a24b-Blood-img20" href="24b-Blood-Therapy/data/img20.png" media-type="image/png"/>
+<item id="a24b-Blood-img21" href="24b-Blood-Therapy/data/img21.png" media-type="image/png"/>
+<item id="a24b-Blood-img22" href="24b-Blood-Therapy/data/img22.png" media-type="image/png"/>
+<item id="a24b-Blood-img23" href="24b-Blood-Therapy/data/img23.png" media-type="image/png"/>
+<item id="a24b-Blood-img24" href="24b-Blood-Therapy/data/img24.png" media-type="image/png"/>
+<item id="a24b-Blood-img25" href="24b-Blood-Therapy/data/img25.png" media-type="image/png"/>
+<item id="a24b-Blood-img26" href="24b-Blood-Therapy/data/img26.png" media-type="image/png"/>
+<item id="a24b-Blood-img27" href="24b-Blood-Therapy/data/img27.png" media-type="image/png"/>
+<item id="a24b-Blood-img28" href="24b-Blood-Therapy/data/img28.png" media-type="image/png"/>
+<item id="a24b-Blood-img29" href="24b-Blood-Therapy/data/img29.png" media-type="image/png"/>
+<item id="a24b-Blood-img3" href="24b-Blood-Therapy/data/img3.png" media-type="image/png"/>
+<item id="a24b-Blood-img30" href="24b-Blood-Therapy/data/img30.png" media-type="image/png"/>
+<item id="a24b-Blood-img31" href="24b-Blood-Therapy/data/img31.png" media-type="image/png"/>
+<item id="a24b-Blood-img32" href="24b-Blood-Therapy/data/img32.png" media-type="image/png"/>
+<item id="a24b-Blood-img33" href="24b-Blood-Therapy/data/img33.png" media-type="image/png"/>
+<item id="a24b-Blood-img34" href="24b-Blood-Therapy/data/img34.png" media-type="image/png"/>
+<item id="a24b-Blood-img35" href="24b-Blood-Therapy/data/img35.png" media-type="image/png"/>
+<item id="a24b-Blood-img36" href="24b-Blood-Therapy/data/img36.png" media-type="image/png"/>
+<item id="a24b-Blood-img37" href="24b-Blood-Therapy/data/img37.png" media-type="image/png"/>
+<item id="a24b-Blood-img38" href="24b-Blood-Therapy/data/img38.png" media-type="image/png"/>
+<item id="a24b-Blood-img39" href="24b-Blood-Therapy/data/img39.png" media-type="image/png"/>
+<item id="a24b-Blood-img4" href="24b-Blood-Therapy/data/img4.png" media-type="image/png"/>
+<item id="a24b-Blood-img40" href="24b-Blood-Therapy/data/img40.png" media-type="image/png"/>
+<item id="a24b-Blood-img41" href="24b-Blood-Therapy/data/img41.png" media-type="image/png"/>
+<item id="a24b-Blood-img42" href="24b-Blood-Therapy/data/img42.png" media-type="image/png"/>
+<item id="a24b-Blood-img43" href="24b-Blood-Therapy/data/img43.png" media-type="image/png"/>
+<item id="a24b-Blood-img44" href="24b-Blood-Therapy/data/img44.png" media-type="image/png"/>
+<item id="a24b-Blood-img45" href="24b-Blood-Therapy/data/img45.png" media-type="image/png"/>
+<item id="a24b-Blood-img46" href="24b-Blood-Therapy/data/img46.png" media-type="image/png"/>
+<item id="a24b-Blood-img47" href="24b-Blood-Therapy/data/img47.png" media-type="image/png"/>
+<item id="a24b-Blood-img48" href="24b-Blood-Therapy/data/img48.png" media-type="image/png"/>
+<item id="a24b-Blood-img49" href="24b-Blood-Therapy/data/img49.png" media-type="image/png"/>
+<item id="a24b-Blood-img5" href="24b-Blood-Therapy/data/img5.png" media-type="image/png"/>
+<item id="a24b-Blood-img50" href="24b-Blood-Therapy/data/img50.png" media-type="image/png"/>
+<item id="a24b-Blood-img51" href="24b-Blood-Therapy/data/img51.png" media-type="image/png"/>
+<item id="a24b-Blood-img52" href="24b-Blood-Therapy/data/img52.png" media-type="image/png"/>
+<item id="a24b-Blood-img53" href="24b-Blood-Therapy/data/img53.png" media-type="image/png"/>
+<item id="a24b-Blood-img54" href="24b-Blood-Therapy/data/img54.png" media-type="image/png"/>
+<item id="a24b-Blood-img55" href="24b-Blood-Therapy/data/img55.png" media-type="image/png"/>
+<item id="a24b-Blood-img56" href="24b-Blood-Therapy/data/img56.png" media-type="image/png"/>
+<item id="a24b-Blood-img57" href="24b-Blood-Therapy/data/img57.png" media-type="image/png"/>
+<item id="a24b-Blood-img58" href="24b-Blood-Therapy/data/img58.png" media-type="image/png"/>
+<item id="a24b-Blood-img59" href="24b-Blood-Therapy/data/img59.png" media-type="image/png"/>
+<item id="a24b-Blood-img6" href="24b-Blood-Therapy/data/img6.png" media-type="image/png"/>
+<item id="a24b-Blood-img60" href="24b-Blood-Therapy/data/img60.png" media-type="image/png"/>
+<item id="a24b-Blood-img61" href="24b-Blood-Therapy/data/img61.png" media-type="image/png"/>
+<item id="a24b-Blood-img62" href="24b-Blood-Therapy/data/img62.png" media-type="image/png"/>
+<item id="a24b-Blood-img63" href="24b-Blood-Therapy/data/img63.png" media-type="image/png"/>
+<item id="a24b-Blood-img64" href="24b-Blood-Therapy/data/img64.png" media-type="image/png"/>
+<item id="a24b-Blood-img65" href="24b-Blood-Therapy/data/img65.png" media-type="image/png"/>
+<item id="a24b-Blood-img66" href="24b-Blood-Therapy/data/img66.png" media-type="image/png"/>
+<item id="a24b-Blood-img67" href="24b-Blood-Therapy/data/img67.png" media-type="image/png"/>
+<item id="a24b-Blood-img68" href="24b-Blood-Therapy/data/img68.png" media-type="image/png"/>
+<item id="a24b-Blood-img69" href="24b-Blood-Therapy/data/img69.png" media-type="image/png"/>
+<item id="a24b-Blood-img7" href="24b-Blood-Therapy/data/img7.png" media-type="image/png"/>
+<item id="a24b-Blood-img70" href="24b-Blood-Therapy/data/img70.png" media-type="image/png"/>
+<item id="a24b-Blood-img71" href="24b-Blood-Therapy/data/img71.png" media-type="image/png"/>
+<item id="a24b-Blood-img72" href="24b-Blood-Therapy/data/img72.png" media-type="image/png"/>
+<item id="a24b-Blood-img73" href="24b-Blood-Therapy/data/img73.png" media-type="image/png"/>
+<item id="a24b-Blood-img74" href="24b-Blood-Therapy/data/img74.png" media-type="image/png"/>
+<item id="a24b-Blood-img75" href="24b-Blood-Therapy/data/img75.png" media-type="image/png"/>
+<item id="a24b-Blood-img76" href="24b-Blood-Therapy/data/img76.png" media-type="image/png"/>
+<item id="a24b-Blood-img77" href="24b-Blood-Therapy/data/img77.png" media-type="image/png"/>
+<item id="a24b-Blood-img78" href="24b-Blood-Therapy/data/img78.png" media-type="image/png"/>
+<item id="a24b-Blood-img79" href="24b-Blood-Therapy/data/img79.png" media-type="image/png"/>
+<item id="a24b-Blood-img8" href="24b-Blood-Therapy/data/img8.png" media-type="image/png"/>
+<item id="a24b-Blood-img80" href="24b-Blood-Therapy/data/img80.png" media-type="image/png"/>
+<item id="a24b-Blood-img81" href="24b-Blood-Therapy/data/img81.png" media-type="image/png"/>
+<item id="a24b-Blood-img82" href="24b-Blood-Therapy/data/img82.png" media-type="image/png"/>
+<item id="a24b-Blood-img83" href="24b-Blood-Therapy/data/img83.png" media-type="image/png"/>
+<item id="a24b-Blood-img84" href="24b-Blood-Therapy/data/img84.png" media-type="image/png"/>
+<item id="a24b-Blood-img85" href="24b-Blood-Therapy/data/img85.png" media-type="image/png"/>
+<item id="a24b-Blood-img86" href="24b-Blood-Therapy/data/img86.png" media-type="image/png"/>
+<item id="a24b-Blood-img87" href="24b-Blood-Therapy/data/img87.png" media-type="image/png"/>
+<item id="a24b-Blood-img88" href="24b-Blood-Therapy/data/img88.png" media-type="image/png"/>
+<item id="a24b-Blood-img89" href="24b-Blood-Therapy/data/img89.png" media-type="image/png"/>
+<item id="a24b-Blood-img9" href="24b-Blood-Therapy/data/img9.png" media-type="image/png"/>
+<item id="a24b-Blood-img90" href="24b-Blood-Therapy/data/img90.png" media-type="image/png"/>
+<item id="a24b-Blood-img91" href="24b-Blood-Therapy/data/img91.png" media-type="image/png"/>
+<item id="a24b-Blood-img92" href="24b-Blood-Therapy/data/img92.png" media-type="image/png"/>
+<item id="a24b-Blood-img93" href="24b-Blood-Therapy/data/img93.png" media-type="image/png"/>
+<item id="a24b-Blood-img94" href="24b-Blood-Therapy/data/img94.png" media-type="image/png"/>
+<item id="a24b-Blood-img95" href="24b-Blood-Therapy/data/img95.png" media-type="image/png"/>
+<item id="a24b-Blood-img96" href="24b-Blood-Therapy/data/img96.png" media-type="image/png"/>
+<item id="a24b-Blood-img97" href="24b-Blood-Therapy/data/img97.png" media-type="image/png"/>
+<item id="a24b-Blood-img98" href="24b-Blood-Therapy/data/img98.png" media-type="image/png"/>
+<item id="a24b-Blood-img99" href="24b-Blood-Therapy/data/img99.png" media-type="image/png"/>
+		<item id="a24b-Blood-fnt0" href="24b-Blood-Therapy/data/fnt0.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-fnt1" href="24b-Blood-Therapy/data/fnt1.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-fnt10" href="24b-Blood-Therapy/data/fnt10.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-fnt11" href="24b-Blood-Therapy/data/fnt11.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-fnt12" href="24b-Blood-Therapy/data/fnt12.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-fnt13" href="24b-Blood-Therapy/data/fnt13.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-fnt14" href="24b-Blood-Therapy/data/fnt14.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-fnt2" href="24b-Blood-Therapy/data/fnt2.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-fnt3" href="24b-Blood-Therapy/data/fnt3.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-fnt4" href="24b-Blood-Therapy/data/fnt4.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-fnt5" href="24b-Blood-Therapy/data/fnt5.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-fnt6" href="24b-Blood-Therapy/data/fnt6.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-fnt7" href="24b-Blood-Therapy/data/fnt7.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-fnt8" href="24b-Blood-Therapy/data/fnt8.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-fnt9" href="24b-Blood-Therapy/data/fnt9.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="imlogo" href="24b-Blood-Therapy/data/logo.png" media-type="image/png"/>
+		<item id="js-browsersupportss" href="24b-Blood-Therapy/data/browsersupport.js" media-type="application/javascript"/>
+
+		<item id="a24b-Blood-soundsound1" href="24b-Blood-Therapy/data/sound1.mp3" media-type="audio/mp3"/>
+		<item id="a24b-Blood-soundsound10" href="24b-Blood-Therapy/data/sound10.mp3" media-type="audio/mp3"/>
+		<item id="a24b-Blood-soundsound11" href="24b-Blood-Therapy/data/sound11.mp3" media-type="audio/mp3"/>
+		<item id="a24b-Blood-soundsound12" href="24b-Blood-Therapy/data/sound12.mp3" media-type="audio/mp3"/>
+		<item id="a24b-Blood-soundsound13" href="24b-Blood-Therapy/data/sound13.mp3" media-type="audio/mp3"/>
+		<item id="a24b-Blood-soundsound14" href="24b-Blood-Therapy/data/sound14.mp3" media-type="audio/mp3"/>
+		<item id="a24b-Blood-soundsound15" href="24b-Blood-Therapy/data/sound15.mp3" media-type="audio/mp3"/>
+		<item id="a24b-Blood-soundsound16" href="24b-Blood-Therapy/data/sound16.mp3" media-type="audio/mp3"/>
+		<item id="a24b-Blood-soundsound17" href="24b-Blood-Therapy/data/sound17.mp3" media-type="audio/mp3"/>
+		<item id="a24b-Blood-soundsound18" href="24b-Blood-Therapy/data/sound18.mp3" media-type="audio/mp3"/>
+		<item id="a24b-Blood-soundsound19" href="24b-Blood-Therapy/data/sound19.mp3" media-type="audio/mp3"/>
+		<item id="a24b-Blood-soundsound2" href="24b-Blood-Therapy/data/sound2.mp3" media-type="audio/mp3"/>
+		<item id="a24b-Blood-soundsound20" href="24b-Blood-Therapy/data/sound20.mp3" media-type="audio/mp3"/>
+		<item id="a24b-Blood-soundsound21" href="24b-Blood-Therapy/data/sound21.mp3" media-type="audio/mp3"/>
+		<item id="a24b-Blood-soundsound22" href="24b-Blood-Therapy/data/sound22.mp3" media-type="audio/mp3"/>
+		<item id="a24b-Blood-soundsound3" href="24b-Blood-Therapy/data/sound3.mp3" media-type="audio/mp3"/>
+		<item id="a24b-Blood-soundsound4" href="24b-Blood-Therapy/data/sound4.mp3" media-type="audio/mp3"/>
+		<item id="a24b-Blood-soundsound5" href="24b-Blood-Therapy/data/sound5.mp3" media-type="audio/mp3"/>
+		<item id="a24b-Blood-soundsound6" href="24b-Blood-Therapy/data/sound6.mp3" media-type="audio/mp3"/>
+		<item id="a24b-Blood-soundsound7" href="24b-Blood-Therapy/data/sound7.mp3" media-type="audio/mp3"/>
+		<item id="a24b-Blood-soundsound8" href="24b-Blood-Therapy/data/sound8.mp3" media-type="audio/mp3"/>
+		<item id="a24b-Blood-soundsound9" href="24b-Blood-Therapy/data/sound9.mp3" media-type="audio/mp3"/>
+		<item id="imthmb1" href="24b-Blood-Therapy/data/thmb1.png" media-type="image/png"/>
+		<item id="imthmb10" href="24b-Blood-Therapy/data/thmb10.png" media-type="image/png"/>
+		<item id="imthmb11" href="24b-Blood-Therapy/data/thmb11.png" media-type="image/png"/>
+		<item id="imthmb12" href="24b-Blood-Therapy/data/thmb12.png" media-type="image/png"/>
+		<item id="imthmb13" href="24b-Blood-Therapy/data/thmb13.png" media-type="image/png"/>
+		<item id="imthmb14" href="24b-Blood-Therapy/data/thmb14.png" media-type="image/png"/>
+		<item id="imthmb15" href="24b-Blood-Therapy/data/thmb15.png" media-type="image/png"/>
+		<item id="imthmb16" href="24b-Blood-Therapy/data/thmb16.png" media-type="image/png"/>
+		<item id="imthmb17" href="24b-Blood-Therapy/data/thmb17.png" media-type="image/png"/>
+		<item id="imthmb18" href="24b-Blood-Therapy/data/thmb18.png" media-type="image/png"/>
+		<item id="imthmb19" href="24b-Blood-Therapy/data/thmb19.png" media-type="image/png"/>
+		<item id="imthmb2" href="24b-Blood-Therapy/data/thmb2.png" media-type="image/png"/>
+		<item id="imthmb20" href="24b-Blood-Therapy/data/thmb20.png" media-type="image/png"/>
+		<item id="imthmb21" href="24b-Blood-Therapy/data/thmb21.png" media-type="image/png"/>
+		<item id="imthmb22" href="24b-Blood-Therapy/data/thmb22.png" media-type="image/png"/>
+		<item id="imthmb23" href="24b-Blood-Therapy/data/thmb23.png" media-type="image/png"/>
+		<item id="imthmb24" href="24b-Blood-Therapy/data/thmb24.png" media-type="image/png"/>
+		<item id="imthmb25" href="24b-Blood-Therapy/data/thmb25.png" media-type="image/png"/>
+		<item id="imthmb26" href="24b-Blood-Therapy/data/thmb26.png" media-type="image/png"/>
+		<item id="imthmb27" href="24b-Blood-Therapy/data/thmb27.png" media-type="image/png"/>
+		<item id="imthmb28" href="24b-Blood-Therapy/data/thmb28.png" media-type="image/png"/>
+		<item id="imthmb29" href="24b-Blood-Therapy/data/thmb29.png" media-type="image/png"/>
+		<item id="imthmb3" href="24b-Blood-Therapy/data/thmb3.png" media-type="image/png"/>
+		<item id="imthmb30" href="24b-Blood-Therapy/data/thmb30.png" media-type="image/png"/>
+		<item id="imthmb31" href="24b-Blood-Therapy/data/thmb31.png" media-type="image/png"/>
+		<item id="imthmb32" href="24b-Blood-Therapy/data/thmb32.png" media-type="image/png"/>
+		<item id="imthmb33" href="24b-Blood-Therapy/data/thmb33.png" media-type="image/png"/>
+		<item id="imthmb34" href="24b-Blood-Therapy/data/thmb34.png" media-type="image/png"/>
+		<item id="imthmb35" href="24b-Blood-Therapy/data/thmb35.png" media-type="image/png"/>
+		<item id="imthmb36" href="24b-Blood-Therapy/data/thmb36.png" media-type="image/png"/>
+		<item id="imthmb4" href="24b-Blood-Therapy/data/thmb4.png" media-type="image/png"/>
+		<item id="imthmb5" href="24b-Blood-Therapy/data/thmb5.png" media-type="image/png"/>
+		<item id="imthmb6" href="24b-Blood-Therapy/data/thmb6.png" media-type="image/png"/>
+		<item id="imthmb7" href="24b-Blood-Therapy/data/thmb7.png" media-type="image/png"/>
+		<item id="imthmb8" href="24b-Blood-Therapy/data/thmb8.png" media-type="image/png"/>
+		<item id="imthmb9" href="24b-Blood-Therapy/data/thmb9.png" media-type="image/png"/>
+		<item id="quiz1-img" href="24b-Blood-Therapy/data/quiz1/images/img-4d0d43660c168b84157ff334648c8a66f441674d.jpg" media-type="image/jpeg"/>
+		<item id="quiz1_bg_0" href="24b-Blood-Therapy/data/quiz1/images/quiz_bg_0.png" media-type="image/png"/>
+		<item id="quiz2-img" href="24b-Blood-Therapy/data/quiz2/images/img-4d0d43660c168b84157ff334648c8a66f441674d.jpg" media-type="image/jpeg"/>
+		<item id="quiz2_bg_0" href="24b-Blood-Therapy/data/quiz2/images/quiz_bg_0.png" media-type="image/png"/>
+		<item id="quiz3-img" href="24b-Blood-Therapy/data/quiz3/images/img-4d0d43660c168b84157ff334648c8a66f441674d.jpg" media-type="image/jpeg"/>
+		<item id="quiz3_bg_0" href="24b-Blood-Therapy/data/quiz3/images/quiz_bg_0.png" media-type="image/png"/>
+		<item id="index11a" href="24b-Blood-Therapy/index.html" media-type="text/html"/>
+		<item id="metainfoa" href="24b-Blood-Therapy/metainfo.xml" media-type="application/xhtml+xml"/>
+		<item id="a24b-Blood-ismplayer-preview" href="24b-Blood-Therapy/data/ismplayer/preview.png" media-type="image/png"/>
+		<item id="apple-touch-icon1" href="24b-Blood-Therapy/data/apple-touch-icon.png" media-type="image/png"/>
+		<item id="html5-unsupported1" href="24b-Blood-Therapy/data/html5-unsupported.html" media-type="text/html"/>
+		<item id="eraser1" href="24b-Blood-Therapy/data/eraser.cur" media-type="image/x-win-bitmap"/>
+		<item id="highlighter1" href="24b-Blood-Therapy/data/highlighter.cur" media-type="image/x-win-bitmap"/>
+		<item id="favicon1" href="24b-Blood-Therapy/data/favicon.ico" media-type="image/x-icon"/>
+		<item id="lock1" href="24b-Blood-Therapy/data/lock.cur" media-type="image/x-win-bitmap"/>
+		<item id="marker" href="24b-Blood-Therapy/data/marker.cur" media-type="image/x-win-bitmap"/>
+		<item id="a24a-Blood-fnt0" href="24a-Blood-Therapy/data/fnt0.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-fnt1" href="24a-Blood-Therapy/data/fnt1.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-fnt10" href="24a-Blood-Therapy/data/fnt10.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-fnt11" href="24a-Blood-Therapy/data/fnt11.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-fnt12" href="24a-Blood-Therapy/data/fnt12.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-fnt13" href="24a-Blood-Therapy/data/fnt13.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-fnt14" href="24a-Blood-Therapy/data/fnt14.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-fnt2" href="24a-Blood-Therapy/data/fnt2.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-fnt3" href="24a-Blood-Therapy/data/fnt3.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-fnt4" href="24a-Blood-Therapy/data/fnt4.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-fnt5" href="24a-Blood-Therapy/data/fnt5.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-fnt6" href="24a-Blood-Therapy/data/fnt6.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-fnt7" href="24a-Blood-Therapy/data/fnt7.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-fnt8" href="24a-Blood-Therapy/data/fnt8.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-fnt9" href="24a-Blood-Therapy/data/fnt9.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-html5" href="24a-Blood-Therapy/data/html5.png" media-type="image/png"/>
+		<item id="a24a-Blood-img0" href="24a-Blood-Therapy/data/img0.png" media-type="image/png"/>
+		<item id="a24a-Blood-img1" href="24a-Blood-Therapy/data/img1.png" media-type="image/png"/>
+		<item id="a24a-Blood-img10" href="24a-Blood-Therapy/data/img10.png" media-type="image/png"/>
+		<item id="a24a-Blood-img100" href="24a-Blood-Therapy/data/img100.png" media-type="image/png"/>
+		<item id="a24a-Blood-img101" href="24a-Blood-Therapy/data/img101.png" media-type="image/png"/>
+		<item id="a24a-Blood-img102" href="24a-Blood-Therapy/data/img102.png" media-type="image/png"/>
+		<item id="a24a-Blood-img103" href="24a-Blood-Therapy/data/img103.png" media-type="image/png"/>
+		<item id="a24a-Blood-img104" href="24a-Blood-Therapy/data/img104.png" media-type="image/png"/>
+		<item id="a24a-Blood-img105" href="24a-Blood-Therapy/data/img105.png" media-type="image/png"/>
+		<item id="a24a-Blood-img106" href="24a-Blood-Therapy/data/img106.png" media-type="image/png"/>
+		<item id="a24a-Blood-img107" href="24a-Blood-Therapy/data/img107.png" media-type="image/png"/>
+		<item id="a24a-Blood-img108" href="24a-Blood-Therapy/data/img108.png" media-type="image/png"/>
+		<item id="a24a-Blood-img109" href="24a-Blood-Therapy/data/img109.png" media-type="image/png"/>
+		<item id="a24a-Blood-img11" href="24a-Blood-Therapy/data/img11.png" media-type="image/png"/>
+		<item id="a24a-Blood-img110" href="24a-Blood-Therapy/data/img110.png" media-type="image/png"/>
+		<item id="a24a-Blood-img111" href="24a-Blood-Therapy/data/img111.png" media-type="image/png"/>
+		<item id="a24a-Blood-img112" href="24a-Blood-Therapy/data/img112.png" media-type="image/png"/>
+		<item id="a24a-Blood-img113" href="24a-Blood-Therapy/data/img113.png" media-type="image/png"/>
+		<item id="a24a-Blood-img114" href="24a-Blood-Therapy/data/img114.png" media-type="image/png"/>
+		<item id="a24a-Blood-img115" href="24a-Blood-Therapy/data/img115.png" media-type="image/png"/>
+		<item id="a24a-Blood-img116" href="24a-Blood-Therapy/data/img116.png" media-type="image/png"/>
+		<item id="a24a-Blood-img117" href="24a-Blood-Therapy/data/img117.png" media-type="image/png"/>
+		<item id="a24a-Blood-img118" href="24a-Blood-Therapy/data/img118.png" media-type="image/png"/>
+		<item id="a24a-Blood-img119" href="24a-Blood-Therapy/data/img119.png" media-type="image/png"/>
+		<item id="a24a-Blood-img12" href="24a-Blood-Therapy/data/img12.png" media-type="image/png"/>
+		<item id="a24a-Blood-img120" href="24a-Blood-Therapy/data/img120.png" media-type="image/png"/>
+		<item id="a24a-Blood-img121" href="24a-Blood-Therapy/data/img121.png" media-type="image/png"/>
+		<item id="a24a-Blood-img122" href="24a-Blood-Therapy/data/img122.png" media-type="image/png"/>
+		<item id="a24a-Blood-img123" href="24a-Blood-Therapy/data/img123.png" media-type="image/png"/>
+		<item id="a24a-Blood-img124" href="24a-Blood-Therapy/data/img124.png" media-type="image/png"/>
+		<item id="a24a-Blood-img125" href="24a-Blood-Therapy/data/img125.png" media-type="image/png"/>
+		<item id="a24a-Blood-img126" href="24a-Blood-Therapy/data/img126.png" media-type="image/png"/>
+		<item id="a24a-Blood-img127" href="24a-Blood-Therapy/data/img127.png" media-type="image/png"/>
+		<item id="a24a-Blood-img128" href="24a-Blood-Therapy/data/img128.png" media-type="image/png"/>
+		<item id="a24a-Blood-img129" href="24a-Blood-Therapy/data/img129.png" media-type="image/png"/>
+		<item id="a24a-Blood-img13" href="24a-Blood-Therapy/data/img13.png" media-type="image/png"/>
+		<item id="a24a-Blood-img130" href="24a-Blood-Therapy/data/img130.png" media-type="image/png"/>
+		<item id="a24a-Blood-img131" href="24a-Blood-Therapy/data/img131.png" media-type="image/png"/>
+		<item id="a24a-Blood-img132" href="24a-Blood-Therapy/data/img132.png" media-type="image/png"/>
+		<item id="a24a-Blood-img133" href="24a-Blood-Therapy/data/img133.png" media-type="image/png"/>
+		<item id="a24a-Blood-img134" href="24a-Blood-Therapy/data/img134.png" media-type="image/png"/>
+		<item id="a24a-Blood-img135" href="24a-Blood-Therapy/data/img135.png" media-type="image/png"/>
+		<item id="a24a-Blood-img136" href="24a-Blood-Therapy/data/img136.png" media-type="image/png"/>
+		<item id="a24a-Blood-img137" href="24a-Blood-Therapy/data/img137.png" media-type="image/png"/>
+		<item id="a24a-Blood-img138" href="24a-Blood-Therapy/data/img138.png" media-type="image/png"/>
+		<item id="a24a-Blood-img139" href="24a-Blood-Therapy/data/img139.png" media-type="image/png"/>
+		<item id="a24a-Blood-img14" href="24a-Blood-Therapy/data/img14.png" media-type="image/png"/>
+		<item id="a24a-Blood-img140" href="24a-Blood-Therapy/data/img140.png" media-type="image/png"/>
+		<item id="a24a-Blood-img141" href="24a-Blood-Therapy/data/img141.png" media-type="image/png"/>
+		<item id="a24a-Blood-img142" href="24a-Blood-Therapy/data/img142.png" media-type="image/png"/>
+		<item id="a24a-Blood-img143" href="24a-Blood-Therapy/data/img143.png" media-type="image/png"/>
+		<item id="a24a-Blood-img144" href="24a-Blood-Therapy/data/img144.png" media-type="image/png"/>
+		<item id="a24a-Blood-img145" href="24a-Blood-Therapy/data/img145.png" media-type="image/png"/>
+		<item id="a24a-Blood-img146" href="24a-Blood-Therapy/data/img146.png" media-type="image/png"/>
+		<item id="a24a-Blood-img147" href="24a-Blood-Therapy/data/img147.png" media-type="image/png"/>
+		<item id="a24a-Blood-img148" href="24a-Blood-Therapy/data/img148.png" media-type="image/png"/>
+		<item id="a24a-Blood-img149" href="24a-Blood-Therapy/data/img149.png" media-type="image/png"/>
+		<item id="a24a-Blood-img15" href="24a-Blood-Therapy/data/img15.png" media-type="image/png"/>
+		<item id="a24a-Blood-img150" href="24a-Blood-Therapy/data/img150.png" media-type="image/png"/>
+		<item id="a24a-Blood-img151" href="24a-Blood-Therapy/data/img151.png" media-type="image/png"/>
+		<item id="a24a-Blood-img152" href="24a-Blood-Therapy/data/img152.png" media-type="image/png"/>
+		<item id="a24a-Blood-img153" href="24a-Blood-Therapy/data/img153.png" media-type="image/png"/>
+		<item id="a24a-Blood-img154" href="24a-Blood-Therapy/data/img154.png" media-type="image/png"/>
+		<item id="a24a-Blood-img155" href="24a-Blood-Therapy/data/img155.png" media-type="image/png"/>
+		<item id="a24a-Blood-img156" href="24a-Blood-Therapy/data/img156.png" media-type="image/png"/>
+		<item id="a24a-Blood-img157" href="24a-Blood-Therapy/data/img157.png" media-type="image/png"/>
+		<item id="a24a-Blood-img158" href="24a-Blood-Therapy/data/img158.png" media-type="image/png"/>
+		<item id="a24a-Blood-img159" href="24a-Blood-Therapy/data/img159.png" media-type="image/png"/>
+		<item id="a24a-Blood-img16" href="24a-Blood-Therapy/data/img16.png" media-type="image/png"/>
+		<item id="a24a-Blood-img160" href="24a-Blood-Therapy/data/img160.png" media-type="image/png"/>
+		<item id="a24a-Blood-img161" href="24a-Blood-Therapy/data/img161.png" media-type="image/png"/>
+		<item id="a24a-Blood-img162" href="24a-Blood-Therapy/data/img162.png" media-type="image/png"/>
+		<item id="a24a-Blood-img163" href="24a-Blood-Therapy/data/img163.png" media-type="image/png"/>
+		<item id="a24a-Blood-img164" href="24a-Blood-Therapy/data/img164.png" media-type="image/png"/>
+		<item id="a24a-Blood-img165" href="24a-Blood-Therapy/data/img165.png" media-type="image/png"/>
+		<item id="a24a-Blood-img166" href="24a-Blood-Therapy/data/img166.png" media-type="image/png"/>
+		<item id="a24a-Blood-img167" href="24a-Blood-Therapy/data/img167.png" media-type="image/png"/>
+		<item id="a24a-Blood-img168" href="24a-Blood-Therapy/data/img168.png" media-type="image/png"/>
+		<item id="a24a-Blood-img169" href="24a-Blood-Therapy/data/img169.png" media-type="image/png"/>
+		<item id="a24a-Blood-img17" href="24a-Blood-Therapy/data/img17.png" media-type="image/png"/>
+		<item id="a24a-Blood-img170" href="24a-Blood-Therapy/data/img170.png" media-type="image/png"/>
+		<item id="a24a-Blood-img171" href="24a-Blood-Therapy/data/img171.png" media-type="image/png"/>
+		<item id="a24a-Blood-img172" href="24a-Blood-Therapy/data/img172.png" media-type="image/png"/>
+		<item id="a24a-Blood-img173" href="24a-Blood-Therapy/data/img173.png" media-type="image/png"/>
+		<item id="a24a-Blood-img174" href="24a-Blood-Therapy/data/img174.png" media-type="image/png"/>
+		<item id="a24a-Blood-img175" href="24a-Blood-Therapy/data/img175.png" media-type="image/png"/>
+		<item id="a24a-Blood-img176" href="24a-Blood-Therapy/data/img176.png" media-type="image/png"/>
+		<item id="a24a-Blood-img177" href="24a-Blood-Therapy/data/img177.png" media-type="image/png"/>
+		<item id="a24a-Blood-img178" href="24a-Blood-Therapy/data/img178.png" media-type="image/png"/>
+		<item id="a24a-Blood-img179" href="24a-Blood-Therapy/data/img179.png" media-type="image/png"/>
+		<item id="a24a-Blood-img18" href="24a-Blood-Therapy/data/img18.png" media-type="image/png"/>
+		<item id="a24a-Blood-img180" href="24a-Blood-Therapy/data/img180.png" media-type="image/png"/>
+		<item id="a24a-Blood-img181" href="24a-Blood-Therapy/data/img181.png" media-type="image/png"/>
+		<item id="a24a-Blood-img182" href="24a-Blood-Therapy/data/img182.png" media-type="image/png"/>
+		<item id="a24a-Blood-img183" href="24a-Blood-Therapy/data/img183.png" media-type="image/png"/>
+		<item id="a24a-Blood-img184" href="24a-Blood-Therapy/data/img184.png" media-type="image/png"/>
+		<item id="a24a-Blood-img185" href="24a-Blood-Therapy/data/img185.png" media-type="image/png"/>
+		<item id="a24a-Blood-img186" href="24a-Blood-Therapy/data/img186.png" media-type="image/png"/>
+		<item id="a24a-Blood-img19" href="24a-Blood-Therapy/data/img19.png" media-type="image/png"/>
+		<item id="a24a-Blood-img2" href="24a-Blood-Therapy/data/img2.png" media-type="image/png"/>
+		<item id="a24a-Blood-img20" href="24a-Blood-Therapy/data/img20.png" media-type="image/png"/>
+		<item id="a24a-Blood-img21" href="24a-Blood-Therapy/data/img21.png" media-type="image/png"/>
+		<item id="a24a-Blood-img22" href="24a-Blood-Therapy/data/img22.png" media-type="image/png"/>
+		<item id="a24a-Blood-img23" href="24a-Blood-Therapy/data/img23.png" media-type="image/png"/>
+		<item id="a24a-Blood-img24" href="24a-Blood-Therapy/data/img24.png" media-type="image/png"/>
+		<item id="a24a-Blood-img25" href="24a-Blood-Therapy/data/img25.png" media-type="image/png"/>
+		<item id="a24a-Blood-img26" href="24a-Blood-Therapy/data/img26.png" media-type="image/png"/>
+		<item id="a24a-Blood-img27" href="24a-Blood-Therapy/data/img27.png" media-type="image/png"/>
+		<item id="a24a-Blood-img28" href="24a-Blood-Therapy/data/img28.png" media-type="image/png"/>
+		<item id="a24a-Blood-img29" href="24a-Blood-Therapy/data/img29.png" media-type="image/png"/>
+		<item id="a24a-Blood-img3" href="24a-Blood-Therapy/data/img3.png" media-type="image/png"/>
+		<item id="a24a-Blood-img30" href="24a-Blood-Therapy/data/img30.png" media-type="image/png"/>
+		<item id="a24a-Blood-img31" href="24a-Blood-Therapy/data/img31.png" media-type="image/png"/>
+		<item id="a24a-Blood-img32" href="24a-Blood-Therapy/data/img32.png" media-type="image/png"/>
+		<item id="a24a-Blood-img33" href="24a-Blood-Therapy/data/img33.png" media-type="image/png"/>
+		<item id="a24a-Blood-img34" href="24a-Blood-Therapy/data/img34.png" media-type="image/png"/>
+		<item id="a24a-Blood-img35" href="24a-Blood-Therapy/data/img35.png" media-type="image/png"/>
+		<item id="a24a-Blood-img36" href="24a-Blood-Therapy/data/img36.png" media-type="image/png"/>
+		<item id="a24a-Blood-img37" href="24a-Blood-Therapy/data/img37.png" media-type="image/png"/>
+		<item id="a24a-Blood-img38" href="24a-Blood-Therapy/data/img38.png" media-type="image/png"/>
+		<item id="a24a-Blood-img39" href="24a-Blood-Therapy/data/img39.png" media-type="image/png"/>
+		<item id="a24a-Blood-img4" href="24a-Blood-Therapy/data/img4.png" media-type="image/png"/>
+		<item id="a24a-Blood-img40" href="24a-Blood-Therapy/data/img40.png" media-type="image/png"/>
+		<item id="a24a-Blood-img41" href="24a-Blood-Therapy/data/img41.png" media-type="image/png"/>
+		<item id="a24a-Blood-img42" href="24a-Blood-Therapy/data/img42.png" media-type="image/png"/>
+		<item id="a24a-Blood-img43" href="24a-Blood-Therapy/data/img43.png" media-type="image/png"/>
+		<item id="a24a-Blood-img44" href="24a-Blood-Therapy/data/img44.png" media-type="image/png"/>
+		<item id="a24a-Blood-img45" href="24a-Blood-Therapy/data/img45.png" media-type="image/png"/>
+		<item id="a24a-Blood-img46" href="24a-Blood-Therapy/data/img46.png" media-type="image/png"/>
+		<item id="a24a-Blood-img47" href="24a-Blood-Therapy/data/img47.png" media-type="image/png"/>
+		<item id="a24a-Blood-img48" href="24a-Blood-Therapy/data/img48.png" media-type="image/png"/>
+		<item id="a24a-Blood-img49" href="24a-Blood-Therapy/data/img49.png" media-type="image/png"/>
+		<item id="a24a-Blood-img5" href="24a-Blood-Therapy/data/img5.png" media-type="image/png"/>
+		<item id="a24a-Blood-img50" href="24a-Blood-Therapy/data/img50.png" media-type="image/png"/>
+		<item id="a24a-Blood-img51" href="24a-Blood-Therapy/data/img51.png" media-type="image/png"/>
+		<item id="a24a-Blood-img52" href="24a-Blood-Therapy/data/img52.png" media-type="image/png"/>
+		<item id="a24a-Blood-img53" href="24a-Blood-Therapy/data/img53.png" media-type="image/png"/>
+		<item id="a24a-Blood-img54" href="24a-Blood-Therapy/data/img54.png" media-type="image/png"/>
+		<item id="a24a-Blood-img55" href="24a-Blood-Therapy/data/img55.png" media-type="image/png"/>
+		<item id="a24a-Blood-img56" href="24a-Blood-Therapy/data/img56.png" media-type="image/png"/>
+		<item id="a24a-Blood-img57" href="24a-Blood-Therapy/data/img57.png" media-type="image/png"/>
+		<item id="a24a-Blood-img58" href="24a-Blood-Therapy/data/img58.png" media-type="image/png"/>
+		<item id="a24a-Blood-img59" href="24a-Blood-Therapy/data/img59.png" media-type="image/png"/>
+		<item id="a24a-Blood-img6" href="24a-Blood-Therapy/data/img6.png" media-type="image/png"/>
+		<item id="a24a-Blood-img60" href="24a-Blood-Therapy/data/img60.png" media-type="image/png"/>
+		<item id="a24a-Blood-img61" href="24a-Blood-Therapy/data/img61.png" media-type="image/png"/>
+		<item id="a24a-Blood-img62" href="24a-Blood-Therapy/data/img62.png" media-type="image/png"/>
+		<item id="a24a-Blood-img63" href="24a-Blood-Therapy/data/img63.png" media-type="image/png"/>
+		<item id="a24a-Blood-img64" href="24a-Blood-Therapy/data/img64.png" media-type="image/png"/>
+		<item id="a24a-Blood-img65" href="24a-Blood-Therapy/data/img65.png" media-type="image/png"/>
+		<item id="a24a-Blood-img66" href="24a-Blood-Therapy/data/img66.png" media-type="image/png"/>
+		<item id="a24a-Blood-img67" href="24a-Blood-Therapy/data/img67.png" media-type="image/png"/>
+		<item id="a24a-Blood-img68" href="24a-Blood-Therapy/data/img68.png" media-type="image/png"/>
+		<item id="a24a-Blood-img69" href="24a-Blood-Therapy/data/img69.png" media-type="image/png"/>
+		<item id="a24a-Blood-img7" href="24a-Blood-Therapy/data/img7.png" media-type="image/png"/>
+		<item id="a24a-Blood-img70" href="24a-Blood-Therapy/data/img70.png" media-type="image/png"/>
+		<item id="a24a-Blood-img71" href="24a-Blood-Therapy/data/img71.png" media-type="image/png"/>
+		<item id="a24a-Blood-img72" href="24a-Blood-Therapy/data/img72.png" media-type="image/png"/>
+		<item id="a24a-Blood-img73" href="24a-Blood-Therapy/data/img73.png" media-type="image/png"/>
+		<item id="a24a-Blood-img74" href="24a-Blood-Therapy/data/img74.png" media-type="image/png"/>
+		<item id="a24a-Blood-img75" href="24a-Blood-Therapy/data/img75.png" media-type="image/png"/>
+		<item id="a24a-Blood-img76" href="24a-Blood-Therapy/data/img76.png" media-type="image/png"/>
+		<item id="a24a-Blood-img77" href="24a-Blood-Therapy/data/img77.png" media-type="image/png"/>
+		<item id="a24a-Blood-img78" href="24a-Blood-Therapy/data/img78.png" media-type="image/png"/>
+		<item id="a24a-Blood-img79" href="24a-Blood-Therapy/data/img79.png" media-type="image/png"/>
+		<item id="a24a-Blood-img8" href="24a-Blood-Therapy/data/img8.png" media-type="image/png"/>
+		<item id="a24a-Blood-img80" href="24a-Blood-Therapy/data/img80.png" media-type="image/png"/>
+		<item id="a24a-Blood-img81" href="24a-Blood-Therapy/data/img81.png" media-type="image/png"/>
+		<item id="a24a-Blood-img82" href="24a-Blood-Therapy/data/img82.png" media-type="image/png"/>
+		<item id="a24a-Blood-img83" href="24a-Blood-Therapy/data/img83.png" media-type="image/png"/>
+		<item id="a24a-Blood-img84" href="24a-Blood-Therapy/data/img84.png" media-type="image/png"/>
+		<item id="a24a-Blood-img85" href="24a-Blood-Therapy/data/img85.png" media-type="image/png"/>
+		<item id="a24a-Blood-img86" href="24a-Blood-Therapy/data/img86.png" media-type="image/png"/>
+		<item id="a24a-Blood-img87" href="24a-Blood-Therapy/data/img87.png" media-type="image/png"/>
+		<item id="a24a-Blood-img88" href="24a-Blood-Therapy/data/img88.png" media-type="image/png"/>
+		<item id="a24a-Blood-img89" href="24a-Blood-Therapy/data/img89.png" media-type="image/png"/>
+		<item id="a24a-Blood-img9" href="24a-Blood-Therapy/data/img9.png" media-type="image/png"/>
+		<item id="a24a-Blood-img90" href="24a-Blood-Therapy/data/img90.png" media-type="image/png"/>
+		<item id="a24a-Blood-img91" href="24a-Blood-Therapy/data/img91.png" media-type="image/png"/>
+		<item id="a24a-Blood-img92" href="24a-Blood-Therapy/data/img92.png" media-type="image/png"/>
+		<item id="a24a-Blood-img93" href="24a-Blood-Therapy/data/img93.png" media-type="image/png"/>
+		<item id="a24a-Blood-img94" href="24a-Blood-Therapy/data/img94.png" media-type="image/png"/>
+		<item id="a24a-Blood-img95" href="24a-Blood-Therapy/data/img95.png" media-type="image/png"/>
+		<item id="a24a-Blood-img96" href="24a-Blood-Therapy/data/img96.png" media-type="image/png"/>
+		<item id="a24a-Blood-img97" href="24a-Blood-Therapy/data/img97.png" media-type="image/png"/>
+		<item id="a24a-Blood-img98" href="24a-Blood-Therapy/data/img98.png" media-type="image/png"/>
+		<item id="a24a-Blood-img99" href="24a-Blood-Therapy/data/img99.png" media-type="image/png"/>
+		<item id="a24a-Blood-logo" href="24a-Blood-Therapy/data/logo.png" media-type="image/png"/>
+		<item id="a24a-Blood-playerss" href="24a-Blood-Therapy/data/player.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-quiz1ss" href="24a-Blood-Therapy/data/quiz1.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-quiz2ss" href="24a-Blood-Therapy/data/quiz2.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-quiz3ss" href="24a-Blood-Therapy/data/quiz3.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-quiz4ss" href="24a-Blood-Therapy/data/quiz4.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-quiz5ss" href="24a-Blood-Therapy/data/quiz5.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-quiz6ss" href="24a-Blood-Therapy/data/quiz6.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-quizplayerss" href="24a-Blood-Therapy/data/quizplayer.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide1" href="24a-Blood-Therapy/data/slide1.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide1ss" href="24a-Blood-Therapy/data/slide1.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide10" href="24a-Blood-Therapy/data/slide10.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide10ss" href="24a-Blood-Therapy/data/slide10.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide11" href="24a-Blood-Therapy/data/slide11.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide11ss" href="24a-Blood-Therapy/data/slide11.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide12" href="24a-Blood-Therapy/data/slide12.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide12ss" href="24a-Blood-Therapy/data/slide12.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide13" href="24a-Blood-Therapy/data/slide13.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide13ss" href="24a-Blood-Therapy/data/slide13.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide14" href="24a-Blood-Therapy/data/slide14.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide14ss" href="24a-Blood-Therapy/data/slide14.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide18" href="24a-Blood-Therapy/data/slide18.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide18ss" href="24a-Blood-Therapy/data/slide18.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide19" href="24a-Blood-Therapy/data/slide19.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide19ss" href="24a-Blood-Therapy/data/slide19.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide2" href="24a-Blood-Therapy/data/slide2.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide2ss" href="24a-Blood-Therapy/data/slide2.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide20" href="24a-Blood-Therapy/data/slide20.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide20ss" href="24a-Blood-Therapy/data/slide20.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide21" href="24a-Blood-Therapy/data/slide21.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide21ss" href="24a-Blood-Therapy/data/slide21.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide22" href="24a-Blood-Therapy/data/slide22.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide22ss" href="24a-Blood-Therapy/data/slide22.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide23" href="24a-Blood-Therapy/data/slide23.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide23ss" href="24a-Blood-Therapy/data/slide23.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide24" href="24a-Blood-Therapy/data/slide24.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide24ss" href="24a-Blood-Therapy/data/slide24.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide25" href="24a-Blood-Therapy/data/slide25.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide25ss" href="24a-Blood-Therapy/data/slide25.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide26" href="24a-Blood-Therapy/data/slide26.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide26ss" href="24a-Blood-Therapy/data/slide26.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide27" href="24a-Blood-Therapy/data/slide27.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide27ss" href="24a-Blood-Therapy/data/slide27.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide28" href="24a-Blood-Therapy/data/slide28.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide28ss" href="24a-Blood-Therapy/data/slide28.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide29" href="24a-Blood-Therapy/data/slide29.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide29ss" href="24a-Blood-Therapy/data/slide29.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide3" href="24a-Blood-Therapy/data/slide3.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide3ss" href="24a-Blood-Therapy/data/slide3.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide30" href="24a-Blood-Therapy/data/slide30.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide30ss" href="24a-Blood-Therapy/data/slide30.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide31" href="24a-Blood-Therapy/data/slide31.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide31ss" href="24a-Blood-Therapy/data/slide31.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide32" href="24a-Blood-Therapy/data/slide32.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide32ss" href="24a-Blood-Therapy/data/slide32.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide33" href="24a-Blood-Therapy/data/slide33.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide33ss" href="24a-Blood-Therapy/data/slide33.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide34" href="24a-Blood-Therapy/data/slide34.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide34ss" href="24a-Blood-Therapy/data/slide34.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide35" href="24a-Blood-Therapy/data/slide35.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide35ss" href="24a-Blood-Therapy/data/slide35.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide36" href="24a-Blood-Therapy/data/slide36.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide36ss" href="24a-Blood-Therapy/data/slide36.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide4" href="24a-Blood-Therapy/data/slide4.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide4ss" href="24a-Blood-Therapy/data/slide4.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide40" href="24a-Blood-Therapy/data/slide40.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide40ss" href="24a-Blood-Therapy/data/slide40.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide5" href="24a-Blood-Therapy/data/slide5.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide5ss" href="24a-Blood-Therapy/data/slide5.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide6" href="24a-Blood-Therapy/data/slide6.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide6ss" href="24a-Blood-Therapy/data/slide6.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide7" href="24a-Blood-Therapy/data/slide7.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide7ss" href="24a-Blood-Therapy/data/slide7.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide8" href="24a-Blood-Therapy/data/slide8.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide8ss" href="24a-Blood-Therapy/data/slide8.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-slide9" href="24a-Blood-Therapy/data/slide9.css" media-type="text/css"/>
+		<item id="a24a-Blood-slide9ss" href="24a-Blood-Therapy/data/slide9.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-browsersupport" href="24a-Blood-Therapy/data/browsersupport.js" media-type="application/javascript"/>
+		<item id="a24a-Blood-thmb1" href="24a-Blood-Therapy/data/thmb1.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb10" href="24a-Blood-Therapy/data/thmb10.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb11" href="24a-Blood-Therapy/data/thmb11.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb12" href="24a-Blood-Therapy/data/thmb12.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb13" href="24a-Blood-Therapy/data/thmb13.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb14" href="24a-Blood-Therapy/data/thmb14.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb15" href="24a-Blood-Therapy/data/thmb15.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb16" href="24a-Blood-Therapy/data/thmb16.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb17" href="24a-Blood-Therapy/data/thmb17.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb18" href="24a-Blood-Therapy/data/thmb18.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb19" href="24a-Blood-Therapy/data/thmb19.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb2" href="24a-Blood-Therapy/data/thmb2.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb20" href="24a-Blood-Therapy/data/thmb20.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb21" href="24a-Blood-Therapy/data/thmb21.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb22" href="24a-Blood-Therapy/data/thmb22.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb23" href="24a-Blood-Therapy/data/thmb23.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb24" href="24a-Blood-Therapy/data/thmb24.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb25" href="24a-Blood-Therapy/data/thmb25.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb26" href="24a-Blood-Therapy/data/thmb26.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb27" href="24a-Blood-Therapy/data/thmb27.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb28" href="24a-Blood-Therapy/data/thmb28.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb29" href="24a-Blood-Therapy/data/thmb29.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb3" href="24a-Blood-Therapy/data/thmb3.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb30" href="24a-Blood-Therapy/data/thmb30.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb31" href="24a-Blood-Therapy/data/thmb31.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb32" href="24a-Blood-Therapy/data/thmb32.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb33" href="24a-Blood-Therapy/data/thmb33.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb34" href="24a-Blood-Therapy/data/thmb34.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb35" href="24a-Blood-Therapy/data/thmb35.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb36" href="24a-Blood-Therapy/data/thmb36.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb37" href="24a-Blood-Therapy/data/thmb37.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb38" href="24a-Blood-Therapy/data/thmb38.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb39" href="24a-Blood-Therapy/data/thmb39.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb4" href="24a-Blood-Therapy/data/thmb4.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb40" href="24a-Blood-Therapy/data/thmb40.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb5" href="24a-Blood-Therapy/data/thmb5.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb6" href="24a-Blood-Therapy/data/thmb6.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb7" href="24a-Blood-Therapy/data/thmb7.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb8" href="24a-Blood-Therapy/data/thmb8.png" media-type="image/png"/>
+		<item id="a24a-Blood-thmb9" href="24a-Blood-Therapy/data/thmb9.png" media-type="image/png"/>
+		<item id="a24a-Blood-sound1" href="24a-Blood-Therapy/data/sound1.mp3" media-type="audio/mp3"/>
+		<item id="a24a-Blood-sound10" href="24a-Blood-Therapy/data/sound10.mp3" media-type="audio/mp3"/>
+		<item id="a24a-Blood-sound11" href="24a-Blood-Therapy/data/sound11.mp3" media-type="audio/mp3"/>
+		<item id="a24a-Blood-sound12" href="24a-Blood-Therapy/data/sound12.mp3" media-type="audio/mp3"/>
+		<item id="a24a-Blood-sound13" href="24a-Blood-Therapy/data/sound13.mp3" media-type="audio/mp3"/>
+		<item id="a24a-Blood-sound14" href="24a-Blood-Therapy/data/sound14.mp3" media-type="audio/mp3"/>
+		<item id="a24a-Blood-sound15" href="24a-Blood-Therapy/data/sound15.mp3" media-type="audio/mp3"/>
+		<item id="a24a-Blood-sound16" href="24a-Blood-Therapy/data/sound16.mp3" media-type="audio/mp3"/>
+		<item id="a24a-Blood-sound17" href="24a-Blood-Therapy/data/sound17.mp3" media-type="audio/mp3"/>
+		<item id="a24a-Blood-sound18" href="24a-Blood-Therapy/data/sound18.mp3" media-type="audio/mp3"/>
+		<item id="a24a-Blood-sound19" href="24a-Blood-Therapy/data/sound19.mp3" media-type="audio/mp3"/>
+		<item id="a24a-Blood-sound2" href="24a-Blood-Therapy/data/sound2.mp3" media-type="audio/mp3"/>
+		<item id="a24a-Blood-sound20" href="24a-Blood-Therapy/data/sound20.mp3" media-type="audio/mp3"/>
+		<item id="a24a-Blood-sound21" href="24a-Blood-Therapy/data/sound21.mp3" media-type="audio/mp3"/>
+		<item id="a24a-Blood-sound3" href="24a-Blood-Therapy/data/sound3.mp3" media-type="audio/mp3"/>
+		<item id="a24a-Blood-sound4" href="24a-Blood-Therapy/data/sound4.mp3" media-type="audio/mp3"/>
+		<item id="a24a-Blood-sound5" href="24a-Blood-Therapy/data/sound5.mp3" media-type="audio/mp3"/>
+		<item id="a24a-Blood-sound6" href="24a-Blood-Therapy/data/sound6.mp3" media-type="audio/mp3"/>
+		<item id="a24a-Blood-sound7" href="24a-Blood-Therapy/data/sound7.mp3" media-type="audio/mp3"/>
+		<item id="a24a-Blood-sound8" href="24a-Blood-Therapy/data/sound8.mp3" media-type="audio/mp3"/>
+		<item id="a24a-Blood-sound9" href="24a-Blood-Therapy/data/sound9.mp3" media-type="audio/mp3"/>
+		<item id="a24a-Blood-quiz1-fnt0a" href="24a-Blood-Therapy/data/quiz1/fonts/fnt0.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz1-fnt1a" href="24a-Blood-Therapy/data/quiz1/fonts/fnt1.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz1-fnt2a" href="24a-Blood-Therapy/data/quiz1/fonts/fnt2.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz1-fnt3a" href="24a-Blood-Therapy/data/quiz1/fonts/fnt3.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz2-fnt0a" href="24a-Blood-Therapy/data/quiz2/fonts/fnt0.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz2-fnt1a" href="24a-Blood-Therapy/data/quiz2/fonts/fnt1.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz2-fnt2a" href="24a-Blood-Therapy/data/quiz2/fonts/fnt2.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz2-fnt3a" href="24a-Blood-Therapy/data/quiz2/fonts/fnt3.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz3-fnt0a" href="24a-Blood-Therapy/data/quiz3/fonts/fnt0.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz3-fnt1a" href="24a-Blood-Therapy/data/quiz3/fonts/fnt1.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz3-fnt2a" href="24a-Blood-Therapy/data/quiz3/fonts/fnt2.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz3-fnt3a" href="24a-Blood-Therapy/data/quiz3/fonts/fnt3.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz4-fnt0a" href="24a-Blood-Therapy/data/quiz4/fonts/fnt0.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz4-fnt1a" href="24a-Blood-Therapy/data/quiz4/fonts/fnt1.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz4-fnt2a" href="24a-Blood-Therapy/data/quiz4/fonts/fnt2.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz4-fnt3a" href="24a-Blood-Therapy/data/quiz4/fonts/fnt3.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz5-fnt0a" href="24a-Blood-Therapy/data/quiz5/fonts/fnt0.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz5-fnt1a" href="24a-Blood-Therapy/data/quiz5/fonts/fnt1.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz5-fnt2a" href="24a-Blood-Therapy/data/quiz5/fonts/fnt2.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz5-fnt3a" href="24a-Blood-Therapy/data/quiz5/fonts/fnt3.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz6-fnt0a" href="24a-Blood-Therapy/data/quiz6/fonts/fnt0.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz6-fnt1a" href="24a-Blood-Therapy/data/quiz6/fonts/fnt1.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz6-fnt2a" href="24a-Blood-Therapy/data/quiz6/fonts/fnt2.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24a-Blood-quiz6-fnt3a" href="24a-Blood-Therapy/data/quiz6/fonts/fnt3.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-quiz1-fnt0a" href="24b-Blood-Therapy/data/quiz1/fonts/fnt0.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-quiz1-fnt1a" href="24b-Blood-Therapy/data/quiz1/fonts/fnt1.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-quiz1-fnt2a" href="24b-Blood-Therapy/data/quiz1/fonts/fnt2.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-quiz1-fnt3a" href="24b-Blood-Therapy/data/quiz1/fonts/fnt3.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-quiz2-fnt0a" href="24b-Blood-Therapy/data/quiz2/fonts/fnt0.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-quiz2-fnt1a" href="24b-Blood-Therapy/data/quiz2/fonts/fnt1.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-quiz2-fnt2a" href="24b-Blood-Therapy/data/quiz2/fonts/fnt2.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-quiz2-fnt3a" href="24b-Blood-Therapy/data/quiz2/fonts/fnt3.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-quiz3-fnt0a" href="24b-Blood-Therapy/data/quiz3/fonts/fnt0.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-quiz3-fnt1a" href="24b-Blood-Therapy/data/quiz3/fonts/fnt1.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-quiz3-fnt2a" href="24b-Blood-Therapy/data/quiz3/fonts/fnt2.woff" media-type="application/vnd.ms-opentype"/>
+		<item id="a24b-Blood-quiz3-fnt3a" href="24b-Blood-Therapy/data/quiz3/fonts/fnt3.woff" media-type="application/vnd.ms-opentype"/>
+
+
+
+		<item id="a24a-Blood-quiz1-img" href="24a-Blood-Therapy/data/quiz1/images/img-4d0d43660c168b84157ff334648c8a66f441674d.jpg" media-type="image/jpeg"/>
+		<item id="a24a-Blood-quiz1_bg_0" href="24a-Blood-Therapy/data/quiz1/images/quiz_bg_0.png" media-type="image/png"/>
+		<item id="a24a-Blood-quiz2-img" href="24a-Blood-Therapy/data/quiz2/images/img-4d0d43660c168b84157ff334648c8a66f441674d.jpg" media-type="image/jpeg"/>
+		<item id="a24a-Blood-quiz2_bg_0" href="24a-Blood-Therapy/data/quiz2/images/quiz_bg_0.png" media-type="image/png"/>
+		<item id="a24a-Blood-quiz3-img" href="24a-Blood-Therapy/data/quiz3/images/img-4d0d43660c168b84157ff334648c8a66f441674d.jpg" media-type="image/jpeg"/>
+		<item id="a24a-Blood-quiz3_bg_0" href="24a-Blood-Therapy/data/quiz3/images/quiz_bg_0.png" media-type="image/png"/>
+		<item id="a24a-Blood-quiz4-img" href="24a-Blood-Therapy/data/quiz4/images/img-4d0d43660c168b84157ff334648c8a66f441674d.jpg" media-type="image/jpeg"/>
+		<item id="a24a-Blood-quiz4_bg_0" href="24a-Blood-Therapy/data/quiz4/images/quiz_bg_0.png" media-type="image/png"/>
+		<item id="a24a-Blood-quiz5-img" href="24a-Blood-Therapy/data/quiz5/images/img-4d0d43660c168b84157ff334648c8a66f441674d.jpg" media-type="image/jpeg"/>
+		<item id="a24a-Blood-quiz5_bg_0" href="24a-Blood-Therapy/data/quiz5/images/quiz_bg_0.png" media-type="image/png"/>
+		<item id="a24a-Blood-quiz6-img" href="24a-Blood-Therapy/data/quiz6/images/img-4d0d43660c168b84157ff334648c8a66f441674d.jpg" media-type="image/jpeg"/>
+		<item id="a24a-Blood-quiz6_bg_0" href="24a-Blood-Therapy/data/quiz6/images/quiz_bg_0.png" media-type="image/png"/>
+		<item id="a24a-Blood-apple-touch-icon" href="24a-Blood-Therapy/data/apple-touch-icon.png" media-type="image/png"/>
+		<item id="a24a-Blood-index11a" href="24a-Blood-Therapy/index.html" media-type="text/html"/>
+		<item id="a24a-Blood-metainfo" href="24a-Blood-Therapy/metainfo.xml" media-type="application/xhtml+xml"/>
+		<item id="a24a-Blood-html5-unsupported" href="24a-Blood-Therapy/data/html5-unsupported.html" media-type="text/html"/>
+		<item id="a24a-Blood-eraser" href="24a-Blood-Therapy/data/eraser.cur" media-type="image/x-win-bitmap"/>
+		<item id="a24a-Blood-favicon" href="24a-Blood-Therapy/data/favicon.ico" media-type="image/x-icon"/>
+		<item id="a24a-Blood-highlighter" href="24a-Blood-Therapy/data/highlighter.cur" media-type="image/x-win-bitmap"/>
+		<item id="a24a-Blood-lock" href="24a-Blood-Therapy/data/lock.cur" media-type="image/x-win-bitmap"/>
+		<item id="a24a-Blood-marker" href="24a-Blood-Therapy/data/marker.cur" media-type="image/x-win-bitmap"/>
+		<item id="a24a-Blood-ismplayer-preview" href="24a-Blood-Therapy/data/ismplayer/preview.png" media-type="image/png"/>
+</manifest>
+	<spine toc="ncx">
+		<itemref idref="cvi"/>
+		<itemref idref="ch24"/>
+		<itemref idref="story_html5a"/>
+		<itemref idref="a24a-Blood-index11a"/>
+		<itemref idref="index11a"/>
+		<itemref idref="ht-01" />
+	</spine>
+</package>

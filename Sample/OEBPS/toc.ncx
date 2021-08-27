@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xml:lang="en-US" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+	<head>
+		<meta name="dtb:uid" content="5eade6a4-77cd-11ea-bc55-0242ac130003"/>
+		<meta name="dtb:depth" content="2"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle><text>Samples eBook Chapters</text></docTitle>
+	<docAuthor><text>Shaw</text></docAuthor>
+	<navMap>
+<navPoint id="nav1" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="cvi.xhtml"/></navPoint>
+	<navPoint id="nav2" playOrder="2">
+		<navLabel><text>Chapter 24 Blood Therapy</text></navLabel>
+		<content src="ch24.xhtml" />
+		<navPoint id="nav3" playOrder="3">
+			<navLabel><text>I. Blood-Product Transfusion</text></navLabel>
+			<content src="ch24.xhtml#sec1" />
+		</navPoint>
+		<navPoint id="nav4" playOrder="4">
+			<navLabel><text>II. Blood Compatibility</text></navLabel>
+			<content src="ch24.xhtml#sec2" />
+		</navPoint>
+		<navPoint id="nav5" playOrder="5">
+			<navLabel><text>III. Blood Administration</text></navLabel>
+			<content src="ch24.xhtml#sec3" />
+		</navPoint>
+		<navPoint id="nav6" playOrder="6">
+			<navLabel><text>IV. Transfusion Reactions</text></navLabel>
+			<content src="ch24.xhtml#sec4" />
+		</navPoint>
+		<navPoint id="nav7" playOrder="7">
+			<navLabel><text>V. Perioperative Alternatives to Transfusion</text></navLabel>
+			<content src="ch24.xhtml#sec5" />
+		</navPoint>
+		<navPoint id="nav8" playOrder="8">
+			<navLabel><text>VI. Primary Hemostasis</text></navLabel>
+			<content src="ch24.xhtml#sec6" />
+		</navPoint>
+		<navPoint id="nav9" playOrder="9">
+			<navLabel><text>VII. Pharmacology</text></navLabel>
+			<content src="ch24.xhtml#sec7" />
+		</navPoint>
+		<navPoint id="nav10" playOrder="10">
+			<navLabel><text>Interactive Infographic Assessment</text></navLabel>
+			<content src="24-Blood-Therapy_FINAL/story_html5.html" />
+		</navPoint>
+		<navPoint id="nav11" playOrder="11">
+			<navLabel><text>Interactive Video Lecture 24.1: Blood Therapy Part I</text></navLabel>
+			<content src="24a-Blood-Therapy/index.html" />
+		</navPoint>
+		<navPoint id="nav12" playOrder="12">
+			<navLabel><text>Interactive Video Lecture 24.1: Blood Therapy Part II</text></navLabel>
+			<content src="24b-Blood-Therapy/index.html" />
+		</navPoint>
+		<navPoint id="nav13" playOrder="13">
+			<navLabel><text>Multiple Choice Question</text></navLabel>
+			<content src="quiz01/index.xhtml" />
+		</navPoint>
+	</navPoint>
+</navMap>
+</ncx>
