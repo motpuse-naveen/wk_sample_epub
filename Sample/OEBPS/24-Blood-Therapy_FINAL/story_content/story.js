@@ -877,7 +877,7 @@ function CloseWebObject(strId)
 	var oWebObject = g_oWebObjects[strId];
 
 	oWebObject.Div.style.visibility = "hidden";
-	oWebObject.IFrame.src = g_strContentFolder + "/blank.html";
+	oWebObject.IFrame.src = g_strContentFolder + "/blank.xhtml";
 	oWebObject.strUrl = "";
 	oWebObject.Open = false;
 }
