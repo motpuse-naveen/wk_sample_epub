@@ -177,7 +177,7 @@
 		<file id="id169">data/sound20.mp3</file>
 		<file id="id170">data/sound21.mp3</file>
 		<file id="id171">data/quizplayer.js</file>
-		<file id="id172">index.html</file>
+		<file id="id172">index.xhtml</file>
 		<file id="id173">data/player.js</file>
 		<file id="id178">data/browsersupport.js</file>
 		<file id="id179">data/apple-touch-icon.png</file>
@@ -388,5 +388,7 @@
 		<file id="id384">data/img99.png</file>
 		<file id="id385">data/logo.png</file>
 		<file id="id386">data/ismplayer/preview.png</file>
+		<file id="id387">data/24a_styles.css</file>
+		<file id="id388">data/24a_script1.js</file>
 	</files>
 </presentation>

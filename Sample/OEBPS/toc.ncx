@@ -43,15 +43,15 @@
 		</navPoint>
 		<navPoint id="nav10" playOrder="10">
 			<navLabel><text>Interactive Infographic Assessment</text></navLabel>
-			<content src="24-Blood-Therapy_FINAL/story_html5.html" />
+			<content src="24-Blood-Therapy_FINAL/story_html5.xhtml" />
 		</navPoint>
 		<navPoint id="nav11" playOrder="11">
 			<navLabel><text>Interactive Video Lecture 24.1: Blood Therapy Part I</text></navLabel>
-			<content src="24a-Blood-Therapy/index.html" />
+			<content src="24a-Blood-Therapy/index.xhtml" />
 		</navPoint>
 		<navPoint id="nav12" playOrder="12">
 			<navLabel><text>Interactive Video Lecture 24.1: Blood Therapy Part II</text></navLabel>
-			<content src="24b-Blood-Therapy/index.html" />
+			<content src="24b-Blood-Therapy/index.xhtml" />
 		</navPoint>
 		<navPoint id="nav13" playOrder="13">
 			<navLabel><text>Multiple Choice Question</text></navLabel>

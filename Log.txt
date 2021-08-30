@@ -43,4 +43,9 @@ ERROR(RSC-012): Sample.epub/OEBPS/24-Blood-Therapy_FINAL/html5/lib/stylesheets/d
 ERROR(RSC-012): Sample.epub/OEBPS/24-Blood-Therapy_FINAL/html5/lib/stylesheets/mobile.min.css(1,26183): Fragment identifier is not defined.
 ERROR(HTM-049): Sample.epub/OEBPS/24-Blood-Therapy_FINAL/story_content/blank.html(2,7): Html element does not have an xmlns set to "http://www.w3.org/1999/xhtml".
 
+
+
 Check finished with errors
+
+FATAL	RSC-016	/OEBPS/24-Blood-Therapy_FINAL/story_html5.xhtml
+(line 42, col 77)	Fatal Error while parsing file: Attribute name "data-noprefix" associated with an element type "link" must be followed by the ' = ' character.
