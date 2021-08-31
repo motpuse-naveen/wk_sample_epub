@@ -39,11 +39,7 @@
 
 		<item id="story_flash" href="24-Blood-Therapy_FINAL/story_flash.html" media-type="text/html"/>
 		<item id="story_html5a" href="24-Blood-Therapy_FINAL/story_html5.xhtml" media-type="application/xhtml+xml"/>
-		<item href="24-Blood-Therapy_FINAL/story_html5_script1.js" id="story-html5-script1" media-type="application/javascript"></item>
-		<item href="24-Blood-Therapy_FINAL/story_html5_script2.js" id="story-html5-script2" media-type="application/javascript"></item>
-		<item href="24-Blood-Therapy_FINAL/story_html5_script3.js" id="story-html5-script3" media-type="application/javascript"></item>
-		<item href="24-Blood-Therapy_FINAL/story_html5_script4.js" id="story-html5-script4" media-type="application/javascript"></item>
-
+		<item id="story_html5a_1" href="24-Blood-Therapy_FINAL/story_html5.html" media-type="text/html"/>
 		<item href="24-Blood-Therapy_FINAL/story_content/FontFactory.swf" id="js-FontFactory" media-type="application/swf"></item>
 		<item href="24-Blood-Therapy_FINAL/story_content/5lygAlnP0q3_80_P_14_0_1316_2048_DX1600_DY1600.swf" id="swf-5lygAlnP0q3_80_P_14_0_1316_2048_DX1600_DY1600" media-type="application/swf"></item>
 		<item href="24-Blood-Therapy_FINAL/story_content/5lygAlnP0q3_80_RG_P_14_0_1316_2048_DX1600_DY1600.swf" id="swf-5lygAlnP0q3_80_RG_P_14_0_1316_2048_DX1600_DY1600" media-type="application/swf"></item>
@@ -172,8 +168,6 @@
 		<item href="24-Blood-Therapy_FINAL/html5/data/js/data.js" id="js1-data" media-type="application/javascript"></item>
 		<item href="24-Blood-Therapy_FINAL/html5/data/js/frame.js" id="js1-frame" media-type="application/javascript"></item>
 		<item href="24-Blood-Therapy_FINAL/html5/data/js/paths.js" id="js1-paths" media-type="application/javascript"></item>
-		<item id="a24b-Blood-index11a_style" href="24b-Blood-Therapy/data/24b_styles.css"  media-type="text/css"/>
-		<item id="a24b-Blood-index11a_script1" href="24b-Blood-Therapy/data/24b_script1.js"  media-type="application/javascript"/>
 		<item id="a24b-Blood-playerss" href="24b-Blood-Therapy/data/player.js" media-type="application/javascript"/>
 		<item id="a24b-Blood-quiz1ss" href="24b-Blood-Therapy/data/quiz1.js" media-type="application/javascript"/>
 		<item id="a24b-Blood-quiz2ss" href="24b-Blood-Therapy/data/quiz2.js" media-type="application/javascript"/>
@@ -491,6 +485,7 @@
 		<item id="quiz3-img" href="24b-Blood-Therapy/data/quiz3/images/img-4d0d43660c168b84157ff334648c8a66f441674d.jpg" media-type="image/jpeg"/>
 		<item id="quiz3_bg_0" href="24b-Blood-Therapy/data/quiz3/images/quiz_bg_0.png" media-type="image/png"/>
 		<item id="index11a" href="24b-Blood-Therapy/index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="index11a_1" href="24b-Blood-Therapy/index.html" media-type="text/html"/>
 		<item id="metainfoa" href="24b-Blood-Therapy/metainfo.xml" media-type="application/xml"/>
 		<item id="a24b-Blood-ismplayer-preview" href="24b-Blood-Therapy/data/ismplayer/preview.png" media-type="image/png"/>
 		<item id="apple-touch-icon1" href="24b-Blood-Therapy/data/apple-touch-icon.png" media-type="image/png"/>
@@ -704,8 +699,6 @@
 		<item id="a24a-Blood-img98" href="24a-Blood-Therapy/data/img98.png" media-type="image/png"/>
 		<item id="a24a-Blood-img99" href="24a-Blood-Therapy/data/img99.png" media-type="image/png"/>
 		<item id="a24a-Blood-logo" href="24a-Blood-Therapy/data/logo.png" media-type="image/png"/>
-		<item id="a24a-Blood-index11a_style" href="24a-Blood-Therapy/data/24a_styles.css"  media-type="text/css"/>
-		<item id="a24a-Blood-index11a_script1" href="24a-Blood-Therapy/data/24a_script1.js"  media-type="application/javascript"/>
 		<item id="a24a-Blood-playerss" href="24a-Blood-Therapy/data/player.js" media-type="application/javascript"/>
 		<item id="a24a-Blood-quiz1ss" href="24a-Blood-Therapy/data/quiz1.js" media-type="application/javascript"/>
 		<item id="a24a-Blood-quiz2ss" href="24a-Blood-Therapy/data/quiz2.js" media-type="application/javascript"/>
@@ -894,6 +887,7 @@
 		<item id="a24a-Blood-quiz6_bg_0" href="24a-Blood-Therapy/data/quiz6/images/quiz_bg_0.png" media-type="image/png"/>
 		<item id="a24a-Blood-apple-touch-icon" href="24a-Blood-Therapy/data/apple-touch-icon.png" media-type="image/png"/>
 		<item id="a24a-Blood-index11a" href="24a-Blood-Therapy/index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="a24a-Blood-index11a_1" href="24a-Blood-Therapy/index.html" media-type="text/html"/>
 		<item id="a24a-Blood-metainfo" href="24a-Blood-Therapy/metainfo.xml" media-type="application/xml"/>
 		<item id="a24a-Blood-html5-unsupported" href="24a-Blood-Therapy/data/html5-unsupported.html" media-type="text/html"/>
 		<item id="a24a-Blood-eraser" href="24a-Blood-Therapy/data/eraser.cur" media-type="image/x-win-bitmap"/>
